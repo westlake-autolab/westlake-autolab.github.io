@@ -4,7 +4,7 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          <img style="display: inline-block; vertical-align: -5px; height: 50px; padding-right: 3px; margin-bottom: -11px;" src="{{ 'WU.png' | prepend: '/assets/img/' | prepend: site.baseurl }}">
+          <img style="display: inline-block; vertical-align: -5px; height: 50px; padding-right: 3px; margin-bottom: -11px;" src="{{ 'WU.png' | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
