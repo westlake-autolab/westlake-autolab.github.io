@@ -5,7 +5,7 @@ title: people
 description: members of our lab
 nav: true
 nav_order: 7
-display_categories: [work, fun]
+display_categories: [Principal Investigator (PI), Administrative Assistant, Postdoc, Ph.D., Research Assistants, Undergraduate]
 horizontal: false
 ---
 
