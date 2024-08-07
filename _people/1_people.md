@@ -4,10 +4,10 @@ title: your name
 description: your position
 img: assets/img/prof_pic.jpg
 importance: 1
-category: work
+category: Principal Investigator (PI)
 related_publications: true
-github: wcyalan
-email: wangcongyu@westlake.edu.cn
+github: 
+email: 
 ---
 
 Every project has a beautiful feature showcase page.
