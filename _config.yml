@@ -197,6 +197,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  people:
+    output: true
+    permalink: /people/:path/
 
 announcements:
   enabled: true
