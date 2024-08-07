@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://westlake-autolab.github.io//sitemap.xml
+Sitemap: https://westlake-autolab.github.io/sitemap.xml
