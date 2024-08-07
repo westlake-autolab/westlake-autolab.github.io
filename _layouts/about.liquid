@@ -4,7 +4,7 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      <img style="display: inline-block; vertical-align: -5px; height: 50px; padding-right: 3px; margin-bottom: -11px;" src="{{ 'WU.png' | prepend: '/assets/img/' | prepend: site.baseurl }}">
+      <img style="display: inline-block; vertical-align: -5px; height: 50px; padding-right: 3px; margin-bottom: -11px;" src="{{ 'WU.png' | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
