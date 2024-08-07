@@ -45,6 +45,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 >No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省杭州市西湖区墩余路600号)
 
->Email: yukaicheng@westlake.edu.cn
+>Email: kyu@westlake.edu.cn
 
 ---
