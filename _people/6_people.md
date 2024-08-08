@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Wang Congyu
+description: 
 img:
 importance: 1
 category: Undergraduate
+github: https://github.com/wcyalan
 ---
 
 Every project has a beautiful feature showcase page.
