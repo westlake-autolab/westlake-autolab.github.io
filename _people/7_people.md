@@ -4,8 +4,8 @@ title: project 7
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: 
-related_publications: Visiting Student
+category: Visiting Student
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
