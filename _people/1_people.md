@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Yu Kaicheng
-description: 
+description: A short intro
 img: assets/img/WU.png
 importance: 1
 category: Principal Investigator (PI)
-related_publications: true
 github: https://github.com/kcyu2014
 email: kyu@westlake.edu.cn
 redirect: http://www.yukaicheng.cn
