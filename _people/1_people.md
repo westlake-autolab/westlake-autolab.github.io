@@ -2,7 +2,7 @@
 layout: page
 title: your name
 description: your position
-img: assets/img/prof_pic.jpg
+img: assets/img/WU.png
 importance: 1
 category: Principal Investigator (PI)
 related_publications: true
