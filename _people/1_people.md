@@ -1,13 +1,14 @@
 ---
 layout: page
-title: your name
-description: your position
+title: Yu Kaicheng
+description: 
 img: assets/img/WU.png
 importance: 1
 category: Principal Investigator (PI)
 related_publications: true
-github: 
-email: 
+github: https://github.com/kcyu2014
+email: kyu@westlake.edu.cn
+redirect: http://www.yukaicheng.cn
 ---
 
 Every project has a beautiful feature showcase page.
