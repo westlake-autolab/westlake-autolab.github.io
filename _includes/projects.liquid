@@ -27,7 +27,7 @@
               {% endif %}
             {% endif %}
             {% if project.email %}
-              
+              <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
             {% endif %}
           </div>
         </div>
