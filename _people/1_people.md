@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yu Kaicheng
+title: Prof. Dr. Yu Kaicheng
 description: A short intro
 img: assets/img/WU.png
 importance: 1
