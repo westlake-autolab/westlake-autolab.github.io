@@ -1,0 +1,6 @@
+{% if site.chatbot %}
+  <script src="{{ '/assets/js/chatbot.js' | relative_url | bust_file_cache }}"></script>
+  <script>
+    openChatbot();
+  </script>
+{% endif %}
