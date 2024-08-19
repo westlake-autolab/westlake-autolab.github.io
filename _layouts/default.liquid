@@ -74,5 +74,9 @@
     {% include scripts/jekyll_tabs.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
+    <script>
+      const rootElement = document.getElementById('react-root');
+      ReactDOM.render(<App />, rootElement);
+    </script>
   </body>
 </html>
