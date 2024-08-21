@@ -2,10 +2,6 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
-    <script type="text/javascript" src="https://unpkg.com/react@16/umd/react.development.js"></script>
-    <script type="text/javascript" src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.0.0-beta.3/babel.min.js"></script>
-
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
@@ -21,7 +17,6 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-    <div id="react-root"></div>
     <!-- Header -->
     {% include header.liquid %}
 
@@ -78,10 +73,5 @@
     {% include scripts/jekyll_tabs.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
-    {% include scripts/chatbot.liquid %}
-    <script type="text/babel">
-      const rootElement = document.getElementById('react-root');
-      ReactDOM.render(<App />, rootElement);
-    </script>
   </body>
 </html>
