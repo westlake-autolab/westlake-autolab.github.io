@@ -47,7 +47,7 @@ ul, li {
 }
 .menu-text {
   color: #fff;
-  margin-left: 8px;
+  margin-left: 15px;
   transition: opacity 0.1s ease;
 }
 
@@ -90,7 +90,7 @@ ul, li {
   justify-content: center;
 }
 .toogle i {
-  font-size: 24px;
+  font-size: 30px;
   transition: transform 0.2s ease;
 }
 
