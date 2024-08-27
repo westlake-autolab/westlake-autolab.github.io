@@ -19,7 +19,9 @@ ul, li {
   background-color: #1E90FF ;
   border-radius: 8px;
   padding: 10px;
-  position: relative;
+  position: sticky; /* 粘性定位 */
+  top: 20px;        /* 距离顶部20像素，开始固定的位置 */
+  right: 20px;
   transition: width 0.2s ease;
   box-shadow: 3px 4px 16px rgba(4, 106, 214, 0.4);
   /* position: absolute; */
