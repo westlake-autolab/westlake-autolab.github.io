@@ -7,7 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(141.71deg, rgba(227, 227, 227, 0.74) 0%, rgba(151, 151, 151, 0.53) 100%);
 }
 
 ul, li {
