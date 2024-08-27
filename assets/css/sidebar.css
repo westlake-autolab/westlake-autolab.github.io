@@ -34,7 +34,7 @@ ul, li {
   align-items: center;
   padding: 0 12px;
   border-radius: 8px;
-  font-size: 14px;
+  font-size: 20px;
   cursor: pointer;
   white-space: nowrap;
   position: relative;
@@ -42,7 +42,7 @@ ul, li {
 }
 
 .menu-item i {
-  font-size: 16px;
+  font-size: 20px;
 }
 .menu-text {
   color: #fff;
