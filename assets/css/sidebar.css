@@ -19,8 +19,8 @@ ul, li {
   background-color: #1E90FF ;
   border-radius: 8px;
   padding: 10px;
-  position: relative;
-  top: 60px;
+  position: sticky;
+  top: 70px;
   right: 20px;
   transition: width 0.2s ease;
   box-shadow: 3px 4px 16px rgba(4, 106, 214, 0.4);
@@ -95,7 +95,7 @@ ul, li {
 
 /* collapsible时动效 */
 .side-menu.collapsible {
-  width: 60px;
+  width: 75px;
 }
 .side-menu.collapsible .menu-text {
   opacity: 0;
