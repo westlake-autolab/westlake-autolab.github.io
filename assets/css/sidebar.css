@@ -4,7 +4,6 @@
 
 body {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
@@ -20,7 +19,7 @@ ul, li {
   border-radius: 8px;
   padding: 10px;
   position: fixed;
-  top: 80px;
+  top: 90px;
   right: 20px;
   transition: width 0.2s ease;
   box-shadow: 3px 4px 16px rgba(4, 106, 214, 0.4);
