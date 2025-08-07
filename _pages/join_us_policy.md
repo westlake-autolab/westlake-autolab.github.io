@@ -43,14 +43,14 @@ Application Requirements:
   
 Compensation and Benefits: 
 
-Salary interviews for visiting personnel and visiting students. 
+- Salary interviews for visiting personnel and visiting students. 
 
 
 ## We can offer:
 
 - Computing power: West Lake has a 1000-card computing cluster (A100/V100/A800/H800), and is continuously purchasing. The group will also purchase at least 50 4090 cards for a computing cluster. I am well aware of the importance of computing power. Therefore, within the limits of financial resources and market supply, the laboratory will do its best to provide sufficient resources to enable everyone to fully devote themselves to scientific research. 
   
-Space: The laboratory covers an area of 200 square meters, offering ample space and advanced facilities. 
+- Space: The laboratory covers an area of 200 square meters, offering ample space and advanced facilities. 
 
 - Benefits: West Lake University offers generous benefits, including single dormitory rooms for doctoral students. Outstanding doctoral students are eligible for the Dean's Scholarship. Salaries are paid on a monthly basis. 
   
