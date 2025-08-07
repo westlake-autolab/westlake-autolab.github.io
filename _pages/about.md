@@ -29,7 +29,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
 
 <div class="clearfix" style="width: 100%; clear: both;">
-    <a href="https://www.gbhi.org" target="_blank"><img style="width: 45%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/WU.png" alt="logo for Global Brain Health Institute"></a>
+    <a href="https://www.gbhi.org" target="_blank"><img style="width: 45%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/IMG_7138.png" alt="logo for Global Brain Health Institute"></a>
     <a href="https://www.allftd.org" target="_blank"><img style="width: 45%; float: right; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/WU.png" alt="logo for the ARTFL-LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) research study"></a>
 </div>
 <div style="width: 100%; clear: both; margin-bottom: 15px">
