@@ -1,7 +1,7 @@
 Recruitment Position:
 
 
-## [Postdoctoral Fellow] ##
+## Postdoctoral Fellow 
 
 Application Requirements: 
 
@@ -32,8 +32,8 @@ Funding policies:
 4. For global graduates with a bachelor's degree or higher who come to work in Hangzhou and meet the requirements (including returnees from overseas studies within five years and foreign talents), Hangzhou will provide a living subsidy, with 100,000 yuan for doctoral graduates.
 5. They can apply for recognition as high-level talents in Hangzhou and enjoy corresponding policies. 
 
-  
-## Visiting Student/Personnel ##
+
+## Visiting Student/Personnel
 
 Application Requirements: 
 
@@ -46,7 +46,7 @@ Compensation and Benefits:
 Salary interviews for visiting personnel and visiting students. 
 
 
-## We can offer:##
+## We can offer:
 
 - Computing power: West Lake has a 1000-card computing cluster (A100/V100/A800/H800), and is continuously purchasing. The group will also purchase at least 50 4090 cards for a computing cluster. I am well aware of the importance of computing power. Therefore, within the limits of financial resources and market supply, the laboratory will do its best to provide sufficient resources to enable everyone to fully devote themselves to scientific research. 
   
@@ -54,16 +54,16 @@ Space: The laboratory covers an area of 200 square meters, offering ample space 
 
 - Benefits: West Lake University offers generous benefits, including single dormitory rooms for doctoral students. Outstanding doctoral students are eligible for the Dean's Scholarship. Salaries are paid on a monthly basis. 
   
-Guidance: There should be at least one 1-on-1 meeting per week. I hope that when you encounter problems, you will communicate with me more often and be proactive. There is also a group meeting once a week for the entire team. Let's not go through the motions but have efficient communication. 
+- Guidance: There should be at least one 1-on-1 meeting per week. I hope that when you encounter problems, you will communicate with me more often and be proactive. There is also a group meeting once a week for the entire team. Let's not go through the motions but have efficient communication. 
 
-Internship: Help you find a stage to showcase your talents in the world's top institutions, including but not limited to the school and enterprise resources mentioned in my personal resume. 
+- Internship: Help you find a stage to showcase your talents in the world's top institutions, including but not limited to the school and enterprise resources mentioned in my personal resume. 
 
-Communication: The team has sufficient funds to encourage students to participate in academic conferences and provide reimbursement for related expenses (including accommodation, transportation, and registration fees). 
+- Communication: The team has sufficient funds to encourage students to participate in academic conferences and provide reimbursement for related expenses (including accommodation, transportation, and registration fees). 
 
-In daily life, the laboratory often organizes team-building activities, advocating the principle of "work hard, play harder". Moreover, there is an administrative assistant in the laboratory who usually handles a series of daily administrative and logistical affairs to ensure that researchers can focus on their research work. 
+- In daily life, the laboratory often organizes team-building activities, advocating the principle of "work hard, play harder". Moreover, there is an administrative assistant in the laboratory who usually handles a series of daily administrative and logistical affairs to ensure that researchers can focus on their research work. 
 
 
-## Application Method:##
+## Application Method:
 
 Please send the following materials to autolab.hr@westlake.edu.cn and copy kyu@westlake.edu.cn at the same time. The subject of the email should be noted as "Application for [Position Name] + [Applicant's Name]". Those who meet the requirements and pass the initial review will be notified by email to arrange an interview. If you have any other questions, please feel free to email us (please also attach the materials). This recruitment notice is valid until the positions are filled. 
 
