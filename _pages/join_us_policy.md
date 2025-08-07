@@ -43,7 +43,7 @@ Application Requirements:
   
 Compensation and Benefits: 
 
-- Salary interviews for visiting personnel and visiting students. 
+- The salaries of visiting personnel and visiting students are determined through discussion.
 
 
 ## We can offer:
