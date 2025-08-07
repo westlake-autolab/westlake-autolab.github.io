@@ -26,6 +26,8 @@ For the latest research progress and developments of the lab, please follow our 
 
 ---
 
+
+
 ## partners
 
 ---
@@ -49,7 +51,7 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 
 ## contact us
 
->Address: Address: YUNGU CAMPUS (云谷校区), Westlake University
+>Address: YUNGU CAMPUS (云谷校区), Westlake University
 No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省杭州市西湖区墩余路600号)
 
 >Address: Westlake Autolab
