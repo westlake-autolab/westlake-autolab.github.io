@@ -39,8 +39,11 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 <div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
 
 <div class="clearfix" style="width: 100%; clear: both;">
-    <a href="https://www.gbhi.org" target="_blank"><img style="width: 45%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/EPFL.PNG" alt="logo for Global Brain Health Institute"></a>
-    <a href="https://www.allftd.org" target="_blank"><img style="width: 45%; float: right; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/浙江大学.png" alt="logo for the ARTFL-LEFFTDS Longitudinal Frontotemporal Lobar Degeneration (ALLFTD) research study"></a>
+   <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/EPFL.png" >
+    <img style="width: 18%; float: right; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/浙江大学.png" >
+  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/阿里巴巴.png" >
+  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/小米.png" >
+  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/有鹿.png" >
 </div>
 <div style="width: 100%; clear: both; margin-bottom: 15px">
 </div>
