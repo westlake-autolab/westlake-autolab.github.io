@@ -27,6 +27,7 @@ category: Visiting Student
 </div>
 
 
+
 I am friendly and cooperative, and I study diligently. In my free time, I enjoy playing basketball and soccer. My current research focus is on large model inference.<br>
         
 ## Academic Achievements
@@ -36,6 +37,7 @@ I am friendly and cooperative, and I study diligently. In my free time, I enjoy 
 - SR-LLM: Rethinking the Structured Representation in Large Language Model<br>
         
 > Email： jiahuanzhang01@gmail.com
+
 
 
 
