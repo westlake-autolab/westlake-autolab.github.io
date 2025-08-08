@@ -23,11 +23,12 @@ category: Ph.D.
         <p class="lead">
             M.S. in Computer Science, Tianjin University (2024)<br>
             B.E. in Computer Science, Tiangong University (2021)<br>
-            Research Focus: Video Generation for Autonomous Driving
+            Research Focus: Video Generation for Autonomous Driving<br>
             Email: maenhui@westlake.edu.cn
         </p>
     </div>
 </div>
+
 
 
 
