@@ -69,3 +69,5 @@ Please send the following materials to autolab.hr@westlake.edu.cn and copy kyu@w
 
 1. Personal resume;
 2. Representative achievements (such as published or submitted academic papers, project reports, transcripts, GitHub homepage, etc., that can prove the applicant's research and learning abilities).
+
+
