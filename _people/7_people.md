@@ -23,6 +23,10 @@ category: Visiting Student
     <div class="col-12 text-center">  <!-- 添加 text-center 使文本居中 -->
         <h2>Hi👋! My name is Zhang Jiahua.</h2>
 
+            </div>
+</div>
+
+
 I am friendly and cooperative, and I study diligently. In my free time, I enjoy playing basketball and soccer. My current research focus is on large model inference.<br>
         
 ## Academic Achievements
@@ -33,8 +37,7 @@ I am friendly and cooperative, and I study diligently. In my free time, I enjoy 
         
 > Email： jiahuanzhang01@gmail.com
 
-    </div>
-</div>
+
 
 
 
