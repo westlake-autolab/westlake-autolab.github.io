@@ -23,7 +23,7 @@ category: Research Assistant
         <h2>Hi👋! I'm Zhen YANG</h2>
   
         
-        </p>
+   
     </div>
 </div>
 
@@ -32,6 +32,7 @@ I am currently a research assistant at AutoLab, Westlake University, focusing on
 Research: “From bottom to top, from underwater to land”I’m a robot player driven by interests. I hope robots can work for me in the future (but I’d like to keep my job, thank you very much!) My research and work encompass various aspects of robotics, from foundational mechanical and electrical design to high-level manipulation, and from underwater bionic robots to land-based humanoid robots. You can briefly understand my research field through my animation short film Lateral Line.
 
 In addition to research I can perform magic tricks, sing, play basketball, swim, work out and other things unrelated to study. I’m also a Annual Update Zone UPloader (年更区UP主). If you come to hang out with me when I’m stuck in my research, I would be very grateful.
+
 
 
 
