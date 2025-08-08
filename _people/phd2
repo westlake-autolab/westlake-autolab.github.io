@@ -11,7 +11,7 @@ category: Ph.D.
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/马子健.JPG" 
+            path="assets/img/马子健.jpeg" 
             title="Zijian Ma" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
