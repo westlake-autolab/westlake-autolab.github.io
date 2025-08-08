@@ -5,7 +5,7 @@ title: people
 description: members of our lab
 nav: true
 nav_order: 7
-display_categories: [Principal Investigator (PI), Administrative Assistant, Postdoc, Ph.D., Research Assistant, Visiting Student, Undergraduate]
+display_categories: [Principal Investigator (PI), Administrative Assistant, Postdoc, Ph.D., Research Assistant, Visiting Student, Undergraduate, Alumni]
 horizontal: false
 ---
 
@@ -19,7 +19,84 @@ horizontal: false
   </a>
   {% assign categorized_projects = site.people | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  
+  {% if category == "Alumni" %}
+  <!-- Special display for Alumni - list format instead of cards -->
+  <div class="alumni-section mt-4">
+    <p class="text-muted">
+      We are proud of our alumni who have gone on to make significant contributions in academia and industry. 
+      If you are an alumnus of our lab and would like to be featured here, please contact us.
+    </p>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <h5>Former Ph.D. Students</h5>
+        <ul class="list-unstyled">
+          {% for project in sorted_projects %}
+            {% if project.subcategory == "Ph.D." %}
+            <li class="mb-2">
+              <i class="fas fa-graduation-cap text-primary me-2"></i>
+              <strong>{{ project.title }}</strong>
+              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+            </li>
+            {% endif %}
+          {% endfor %}
+          {% unless sorted_projects %}
+          <li class="mb-2">
+            <i class="fas fa-graduation-cap text-primary me-2"></i>
+            <span class="text-muted">Coming soon...</span>
+          </li>
+          {% endunless %}
+        </ul>
+      </div>
+      
+      <div class="col-md-6">
+        <h5>Former Research Assistants</h5>
+        <ul class="list-unstyled">
+          {% for project in sorted_projects %}
+            {% if project.subcategory == "Research Assistant" %}
+            <li class="mb-2">
+              <i class="fas fa-user-graduate text-primary me-2"></i>
+              <strong>{{ project.title }}</strong>
+              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+            </li>
+            {% endif %}
+          {% endfor %}
+          {% unless sorted_projects %}
+          <li class="mb-2">
+            <i class="fas fa-user-graduate text-primary me-2"></i>
+            <span class="text-muted">Coming soon...</span>
+          </li>
+          {% endunless %}
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row mt-4">
+      <div class="col-12">
+        <h5>Former Visiting Students & Interns</h5>
+        <ul class="list-unstyled">
+          {% for project in sorted_projects %}
+            {% if project.subcategory == "Visiting Student" or project.subcategory == "Intern" %}
+            <li class="mb-2">
+              <i class="fas fa-users text-primary me-2"></i>
+              <strong>{{ project.title }}</strong>
+              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+            </li>
+            {% endif %}
+          {% endfor %}
+          {% unless sorted_projects %}
+          <li class="mb-2">
+            <i class="fas fa-users text-primary me-2"></i>
+            <span class="text-muted">Coming soon...</span>
+          </li>
+          {% endunless %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <!-- Generate cards for each project (non-Alumni categories) -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
@@ -34,6 +111,7 @@ horizontal: false
       {% include projects.liquid %}
     {% endfor %}
   </div>
+  {% endif %}
   {% endif %}
   {% endfor %}
 
