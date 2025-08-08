@@ -2,7 +2,7 @@
 layout: page
 title: Jiahuan Zhang
 description: Visiting Student
-img: assets/img/张家焕.jpg
+img: assets/img/张家焕.JPEG
 importance: 1
 category: Visiting Student
 
@@ -23,7 +23,8 @@ category: Visiting Student
 > Email： jiahuanzhang01@gmail.com
     </div>
     <div class="col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/张家焕.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/张家焕.JPEG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
