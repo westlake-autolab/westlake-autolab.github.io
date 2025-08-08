@@ -6,9 +6,13 @@ Recruitment Position:
 Application Requirements: 
 
 - Possess a doctoral degree and relevant research experience corresponding to the position.
+  
 - Have published related research results in top international journals and conferences.
+  
 - Be proficient in both spoken and written English, and have excellent programming skills.
+  
 - Have a strong passion and sense of responsibility for scientific research, independent research capabilities, good communication skills and a spirit of teamwork.
+  
 - Postdoctoral applicants must meet the relevant regulations of Westlake University for postdoctoral management and be no older than 35 years old. 
   
 Job Responsibilities: 
