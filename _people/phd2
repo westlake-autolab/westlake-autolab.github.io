@@ -12,7 +12,7 @@ category: Ph.D.
         {% include figure.liquid 
             loading="eager" 
             path="assets/img/马子健.JPG" 
-            title="Enhui Ma" 
+            title="Zijian Ma" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
     </div>
