@@ -1,17 +1,31 @@
 ---
 layout: page
 title: Enhui Ma
-description: 2024 Fall PhD
-img: 马恩慧.JPG
+description: 2024 Fall Ph.D.
+img: assets/img/马恩慧.JPG
 category: Ph.D.
 ---
 
-Hi👋! My name is Enhui Ma. I obtained my M.S. in Computer Science from Tianjin University in 2024. And I also received my B.E. in Computer Science from Tiangong University in 2021.  My research interests lie in the fields of video generation of autonomous driving.
-
-
-
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="马恩慧.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <!-- 照片列（单独一行） -->
+    <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
+        {% include figure.liquid 
+            loading="eager" 
+            path="assets/img/马恩慧.JPG" 
+            title="Enhui Ma" 
+            class="img-fluid rounded-circle z-depth-1"
+            width="200px" %}
     </div>
+
+    <!-- 个人介绍列（单独一行） -->
+    <div class="col-12 text-center">  <!-- 添加 text-center 使文本居中 -->
+        <h2>Hi👋! I'm Enhui Ma</h2>
+        <p class="lead">
+            M.S. in Computer Science, Tianjin University (2024)<br>
+            B.E. in Computer Science, Tiangong University (2021)<br>
+            Research Focus: Video Generation for Autonomous Driving
+        </p>
+    </div>
+</div>
 
 
