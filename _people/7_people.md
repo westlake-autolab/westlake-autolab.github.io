@@ -5,12 +5,12 @@ description: Visiting Student
 img: assets/img/张家焕.jpg
 importance: 1
 category: Visiting Student
-related_publications: 
+
 ---
 
-
-
-My name is Zhang Jiahua. I am friendly and cooperative, and I study diligently. In my free time, I enjoy playing basketball and soccer. My current research focus is on large model inference.
+<div class="row">
+    <div class="col-sm-8">
+        My name is Zhang Jiahua. I am friendly and cooperative, and I study diligently. In my free time, I enjoy playing basketball and soccer. My current research focus is on large model inference.
 
 ## Academic Achievements
 
@@ -21,10 +21,9 @@ My name is Zhang Jiahua. I am friendly and cooperative, and I study diligently. 
 - SR-LLM: Rethinking the Structured Representation in Large Language Model
 
 > Email： jiahuanzhang01@gmail.com
-   
-    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm-4">
         {% include figure.liquid loading="eager" path="assets/img/张家焕.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-
-
+</div>
 
