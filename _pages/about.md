@@ -28,6 +28,9 @@ For the latest research progress and developments of the lab, please follow our 
 
 
 
+
+
+
 ## partners
 
 ---
@@ -39,11 +42,11 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 <div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
 
 <div class="clearfix" style="width: 100%; clear: both;">
-   <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/EPFL.png" >
-    <img style="width: 18%; float: right; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/浙江大学.png" >
-  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/阿里巴巴.png" >
-  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/小米.png" >
-  <img style="width: 18%; float: left; padding-bottom: 25px;" valign="center" src="{{site.url}}{{ site.baseurl }}/assets/img/有鹿.png" >
+   <img style="width: 20%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/EPFL.png" >
+    <img style="width: 20%; float: right; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/浙江大学.png" >
+  <img style="width: 20%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/阿里巴巴.png" >
+  <img style="width: 20%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/小米.png" >
+  <img style="width: 20%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/有鹿.png" >
 </div>
 <div style="width: 100%; clear: both; margin-bottom: 15px">
 </div>
@@ -60,7 +63,7 @@ No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省�
 >Address: Westlake Autolab
 Room 213, Building 6, Yunchuang Gallium Valley, No. 428, Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷6号楼213室)
 
->Email: PI contact: kyu@westlake.edu.
+>Email: PI contact: kyu@westlake.edu.cn
 
 
 ---
