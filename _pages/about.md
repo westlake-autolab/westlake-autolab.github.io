@@ -42,7 +42,7 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 <div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
 
 <div class="clearfix" style="width: 100%; clear: both;">
-   <img style="width: 80%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/EPFL等.png" >
+   <img style="width: 80%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/EPFL等.jpg" >
   
 </div>
 <div style="width: 100%; clear: both; margin-bottom: 15px">
