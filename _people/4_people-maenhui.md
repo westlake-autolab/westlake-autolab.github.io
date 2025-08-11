@@ -20,16 +20,13 @@ category: Ph.D.
     <!-- 个人介绍列（单独一行） -->
     <div class="col-12 text-center">  <!-- 添加 text-center 使文本居中 -->
         <h2>Hi👋! I'm Enhui Ma</h2>
-        <p class="lead">
-            M.S. in Computer Science, Tianjin University (2024)<br>
-            B.E. in Computer Science, Tiangong University (2021)<br>
-            Research Focus: Video Generation for Autonomous Driving<br>
-            > Email: maenhui@westlake.edu.cn
-        </p>
+        <div class="lead" markdown="1">
+M.S. in Computer Science, Tianjin University (2024)  
+B.E. in Computer Science, Tiangong University (2021)  
+Research Focus: Video Generation for Autonomous Driving
+        </div>
     </div>
 </div>
 
 
-
-
-
+> Email: maenhui@westlake.edu.cn

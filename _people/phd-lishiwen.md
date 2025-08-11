@@ -25,9 +25,10 @@ category: Ph.D.
 
         phd candidate，focus on embodied ai<br>
         
-        > lishiwen@westlake.edu.cn
+  
         
     </div>
 </div>
 
 
+> lishiwen@westlake.edu.cn
