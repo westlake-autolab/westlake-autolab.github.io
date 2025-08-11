@@ -12,11 +12,9 @@ category: Ph.D.
         {% include figure.liquid 
             loading="eager" 
             path="assets/img/lishiwen.jpeg" 
-<<<<<<< HEAD:_people/phd-lishiwen.md
             title="Shiwen LI" 
-=======
+            path="assets/img/lishiwen.jpeg" 
             title="Zijian Ma" 
->>>>>>> 7e3b04af8f1cff5ccfe87fb8718362d6a2bc92c1:_people/phd-lishiwen
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
     </div>
