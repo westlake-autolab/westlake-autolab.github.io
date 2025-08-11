@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Shiwen LI
+title: Xinna LIN
 description: 2024 Fall Ph.D.
-img: assets/img/马子健.jpeg
+img: assets/img/linxinna.jpg
 category: Ph.D.
 ---
 
@@ -11,19 +11,20 @@ category: Ph.D.
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/马子健.jpeg" 
-            title="Zijian Ma" 
+            path="assets/img/linxinna.jpg" 
+            title="Xinna LIN" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
     </div>
 
     <!-- 个人介绍列（单独一行） -->
     <div class="col-12 text-center">  <!-- 添加 text-center 使文本居中 -->
-        <h2>Hi👋! I'm Shiwen LI</h2>
+        <h2>Hi👋! I'm Xinna LIN</h2>
         
     </div>
 </div>
 
-phd candidate，focus on embodied ai<br>
+Xinna Lin obtained her B.Eng. from Zhejiang University (Control Science & Engineering, Chu Kochen Honors College) in 2024. She joined AutoLab as a PhD student the same year, with research interests focusing on AI agents for scientific discovery.<br>
 
-> lishiwen@westlake.edu.cn
+
+> linxinna@westlake.edu.cn
