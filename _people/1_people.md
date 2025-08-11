@@ -2,7 +2,7 @@
 layout: page
 title: Prof. Dr. Yu Kaicheng
 description: A short intro
-img: assets/img/WU.png
+img: assets/img/于开丞.png
 importance: 1
 category: Principal Investigator (PI)
 github: https://github.com/kcyu2014
@@ -81,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
