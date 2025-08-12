@@ -5,7 +5,7 @@ title: people
 description: members of our lab
 nav: true
 nav_order: 7
-display_categories: [Principal Investigator (PI), Administrative Assistant, Postdoc, Ph.D., Research Assistant, Visiting Student, Undergraduate, Alumni]
+display_categories: [Principal Investigator (PI), Administrative Assistant, Ph.D., Research Assistant, Visiting Student, Undergraduate, Alumni]
 horizontal: false
 ---
 

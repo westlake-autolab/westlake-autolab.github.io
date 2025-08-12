@@ -26,26 +26,17 @@ For the latest research progress and developments of the lab, please follow our 
 
 ---
 
-
-
-
-
-
 ## partners
 
----
 
 The Autonomous Intelligence Laboratory of Westlake University has established close or potential cooperative relationships with research institutions and researchers from EPFL, the University of Oxford, Tsinghua University, Peking University, Zhejiang University, Tianjin University, Alibaba Autonomous Driving Laboratory, Xiaomi Autonomous Driving Department, Youlu Intelligence, etc. (We also welcome more partners). Together, they focus on solving important scientific problems in the intersection of intelligence and robotics. The research group also supports and encourages international and domestic exchanges among its members, and promotes industrial cooperation and transformation.
 
----
 
-<div class="clearfix" style="width: 100%; padding-bottom: 25px"></div>
-
-<div class="clearfix" style="width: 100%; clear: both;">
-   <img style="width: 80%; float: left; padding-bottom: 25px;" valign="bottom" src="{{ site.baseurl }}/assets/img/epfl.jpeg" >
-  
-</div>
-<div style="width: 100%; clear: both; margin-bottom: 15px">
+<div class="text-center" style="margin: 30px 0;">
+  <img src="{{ site.baseurl }}/assets/img/epfl.jpeg" 
+       alt="EPFL Partnership" 
+       style="max-width: 70%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+       class="img-fluid">
 </div>
 
 <a rel="me" href="https://neuromatch.social/@winstonchiong"> - </a>
@@ -61,6 +52,5 @@ No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省�
 Room 213, Building 6, Yunchuang Gallium Valley, No. 428, Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷6号楼213室)
 
 >Email: PI contact: kyu@westlake.edu.cn
-
 
 ---
