@@ -5,7 +5,6 @@ description: Tingyan Wen
 img: assets/img/wentingyan.jpg
 importance: 1
 category: Administrative Assistant
-giscus_comments: true
 ---
 
 <div class="row">
@@ -28,6 +27,5 @@ giscus_comments: true
 
 Be responsible for coordinating the daily administrative affairs of the laboratory and professors to ensure the efficient and orderly progress of scientific research work.
 <br>
-
 
 > wentingyan@westlake.edu.cn
