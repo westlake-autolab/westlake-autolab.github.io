@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Congyu Wang 
-description: 
+description: Undergraduate
 img:assets/img/王从宇.jpeg
 importance: 1
 category: Undergraduate
@@ -28,4 +28,5 @@ category: Undergraduate
 </div>
 
 > Email: wangcongyu@westlake.edu.cn<br>github: https://github.com/wcyalan
+
 
