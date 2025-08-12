@@ -6,7 +6,7 @@ subtitle: <a href='https://www.westlake.edu.cn'>@Westlake University</a>
 
 profile:
   align: right
-  image: WU1.png
+  image: autolab logo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Engineering</p>
