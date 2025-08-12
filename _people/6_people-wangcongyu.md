@@ -2,7 +2,7 @@
 layout: page
 title: Congyu Wang 
 description: Undergraduate
-img:assets/img/王从宇.jpeg
+img: assets/img/王从宇.jpeg
 importance: 1
 category: Undergraduate
 ---

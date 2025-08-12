@@ -1,8 +1,6 @@
 ---
 layout: profiles
 permalink: /join us/
-title: join us
-description: how to join us
 nav: true
 nav_order: 9
 
