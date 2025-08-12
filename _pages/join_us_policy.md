@@ -1,7 +1,6 @@
-# Recruitment Position
+# **Recruitment Position**
 
-
-
+---
 
 
 ## Postdoctoral Fellow 
