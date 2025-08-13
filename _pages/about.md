@@ -59,7 +59,7 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省杭州市西湖区墩余路600号)
 
 >Address: Westlake Autolab,
-Yunchuang Gallium Valley, No. 428, Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷)
+Yunchuang Gallium Valley, No. 428 Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷)
 
 >Email: PI contact: autolab.hr@westlake.edu.cn
 
