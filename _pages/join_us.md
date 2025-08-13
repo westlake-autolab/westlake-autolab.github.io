@@ -1,6 +1,7 @@
 ---
 layout: profiles
-permalink: /join us/
+permalink: /join-us/
+title: join us
 nav: true
 nav_order: 9
 

@@ -1,3 +1,10 @@
+<style>
+p, li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
 # **Recruitment Position**
 
 ---
