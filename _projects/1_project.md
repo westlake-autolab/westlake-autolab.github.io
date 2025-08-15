@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: World Modelling in Embodoed AI
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,7 +8,29 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
+TODO: Summary
+
+### Part 1: Enhancing Rule Understanding in Autonomous Driving Systems Using Generative World Models
+
+#### Our Objective: 
+The core of an autonomous driving system lies in its deep understanding of the surrounding environment and traffic rules. However, current autonomous driving technology still faces challenges when dealing with complex or rare high-level rules. For instance, "How should the system decide when a police officer’s hand gesture conflicts with traffic signal indications?" Such situations highlight the current system's shortcomings. Therefore, integrating these complex rules effectively into autonomous driving models becomes a critical issue for improving system reliability. The cause of this problem is the "long tail effect" of real-world data: rare but crucial hazardous scenarios are extremely sparse in datasets. Relying on manual data collection for such scenarios is not only costly but also entails significant safety risks. To address this challenge, our research utilizes Generative AI to construct a data feedback loop framework. This framework uses a Generative World Model to create large-scale simulation scenes that include complex high-level rules and complete 3D ground truth. These high-quality synthetic data are then used to train the main driving model, compensating for its shortcomings in rule understanding, and ultimately improving its decision-making ability in real-world environments.
+
+#### Our Achievements So Far:
+
+1. **Static World Construction**: Achieved fine-grained control in generating static 3D driving scenes. {% cite yang2023bevcontrol %}
+
+2. **Dynamic World Synthesis**: Expanded the model to include temporal sequences, resulting in the continuous generation of 4D video, demonstrating the model's performance in dynamic environments. {% cite ma2024unleashing %}
+
+3. **Model Self-Correction**: Built the data feedback loop framework, enabling the system to learn from the generated data and perform self-correction and optimization. {% cite ma2024unleashing %}
+
+4. **Trajectory Risk Prediction Enhancement**: By using synthetic trajectory data, we enhanced the Visual Language Model (VLM) in predicting the risks associated with planned trajectories, thereby improving the safety of the planned trajectories. This advancement helps foresee potential risks in real driving scenarios, optimizing the safety of autonomous driving decisions. {% cite hou2025drivemrp %}
+
+#### Future Outlook
+
+We will continue to optimize the self-correcting feedback loop framework, enhance the realism of the simulator, and improve high-level closed-loop capabilities. Our goal is to reduce data collection and training costs, further enhancing the robustness and generalization of autonomous driving models, ultimately driving autonomous driving technology toward a smarter and safer future.
+
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -76,6 +98,6 @@ Here's the code for the last row of images above:
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+``` -->
 
 {% endraw %}
