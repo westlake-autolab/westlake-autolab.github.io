@@ -101,3 +101,16 @@ Here's the code for the last row of images above:
 ``` -->
 
 {% endraw %}
+
+
+### Part 4: From Data to Concepts: Toward Efficient Driving Intelligence
+
+#### Our Objective: 
+Human drivers typically require only limited formal training—covering traffic rules, basic operations, simulated road practice, and driving norms—before gradually adapting to increasingly complex and unfamiliar situations with experience. In contrast, autonomous driving systems have consumed millions or even billions of data samples, yet achieving fully reliable performance still remains a challenge.
+Our research explores whether autonomous agents can move beyond brute-force data accumulation by developing higher-level conceptual understanding from their training, somewhat akin to the human ability to generalize through intuition. We believe such an approach could lead to more data-efficient learning and enable agents to handle rare and long-tail scenarios more effectively. {% cite jia2024bench2drive %}
+
+#### Our Achievements So Far:
+We are developing a concept-learning module that complements existing end-to-end driving architectures.{% cite renz2025simlingo %} This module aims to build a structured understanding of driving scenarios in parallel with traditional perception and control pipelines.
+
+#### Future Outlook
+We plan to extend this framework using more diverse datasets to improve the generalization of the concept model, with the ultimate goal of enhancing performance in unseen and complex situations while advancing the broader pursuit of data-efficient learning in autonomous driving.
