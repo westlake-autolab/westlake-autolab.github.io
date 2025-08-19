@@ -12,6 +12,7 @@ profile:
     <p style="text-align: center; display: block; margin: 10px auto 0 auto;">Autolab Family</p>
 
 news: true # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -61,12 +62,12 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 
 ## contact us
 
->Address: YUNGU CAMPUS (云谷校区), Westlake University
+>Address: YUNGU CAMPUS (云谷校区), Westlake University,
 No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China (浙江省杭州市西湖区墩余路600号)
 
->Address: Westlake Autolab
-Room 213, Building 6, Yunchuang Gallium Valley, No. 428, Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷6号楼213室)
+>Address: Westlake Autolab,
+Yunchuang Gallium Valley, No. 428 Zhiqiang Road, Xihu District, Hangzhou City, Zhejiang Province(浙江省杭州市西湖区智强路428号云创镓谷)
 
->Email: PI contact: kyu@westlake.edu.cn
+>Email: autolab.hr@westlake.edu.cn
 
 ---
