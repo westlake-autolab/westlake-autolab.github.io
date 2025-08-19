@@ -6,11 +6,12 @@ subtitle: <a href='https://www.westlake.edu.cn'>@Westlake University</a>
 
 profile:
   align: right
-  image: assets/img/实验室合影1-2025.jpeg
+  image: family.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Autolab Family</p>
+    <p style="text-align: center; display: block; margin: 10px auto 0 auto;">Autolab Family</p>
 
+news: true # includes a list of news items
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -50,6 +51,12 @@ The Autonomous Intelligence Laboratory of Westlake University has established cl
 </div>
 
 
+
+---
+
+## news
+
+{% include news.liquid %}
 
 ---
 
