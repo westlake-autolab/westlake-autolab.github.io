@@ -79,6 +79,8 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Add x86_64-linux platform to Gemfile.lock 🔧
+        run: bundle lock --add-platform x86_64-linux
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
