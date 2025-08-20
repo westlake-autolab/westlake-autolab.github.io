@@ -71,7 +71,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2.2"
-          bundler-cache: true
+          bundler-cache: false
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -79,8 +79,11 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Add x86_64-linux platform to Gemfile.lock 🔧
-        run: bundle lock --add-platform x86_64-linux
+      - name: Add x86_64-linux platform and update dependencies 🔧
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle update --bundler
+          bundle install
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
