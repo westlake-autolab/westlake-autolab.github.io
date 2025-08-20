@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1: World Modelling in Embodoed AI
+title: Project 1: World Modelling in Embodied AI
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -34,11 +34,7 @@ related_publications: true
 <p>We will continue to optimize the self-correcting feedback loop framework, enhance the realism of the simulator, and improve high-level closed-loop capabilities. Our goal is to reduce data collection and training costs, further enhancing the robustness and generalization of autonomous driving models, ultimately driving autonomous driving technology toward a smarter and safer future.</p>
 
 
-{% endraw %}
-
-
-
-<h3>Part 4: From Data to Concepts: Toward Efficient Driving Intelligence
+<h3>Part 4: From Data to Concepts: Toward Efficient Driving Intelligence</h3>
 
 <h4>Our Objective:</h4>
 <p>Human drivers typically require only limited formal training—covering traffic rules, basic operations, simulated road practice, and driving norms—before gradually adapting to increasingly complex and unfamiliar situations with experience. In contrast, autonomous driving systems have consumed millions or even billions of data samples, yet achieving fully reliable performance still remains a challenge.
@@ -46,7 +42,7 @@ Our research explores whether autonomous agents can move beyond brute-force data
 
 <h4>Our Achievements So Far:</h4>
 
-<p>We are developing a concept-learning module that complements existing end-to-end driving architectures.{% cite renz2025simlingo %} This module aims to build a structured understanding of driving scenarios in parallel with traditional perception and control pipelines.<p>
+<p>We are developing a concept-learning module that complements existing end-to-end driving architectures.{% cite renz2025simlingo %} This module aims to build a structured understanding of driving scenarios in parallel with traditional perception and control pipelines.</p>
 
 <h4>Future Outlook</h4>
 
