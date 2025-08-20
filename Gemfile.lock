@@ -50,9 +50,13 @@ GEM
     feedjira (3.2.3)
       loofah (>= 2.3.1, < 3)
       sax-machine (>= 1.0, < 2)
+    ffi (1.17.0)
     ffi (1.17.0-aarch64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
+    google-protobuf (4.27.2)
+      bigdecimal
+      rake (>= 13)
     google-protobuf (4.27.2-aarch64-linux)
       bigdecimal
       rake (>= 13)
@@ -134,7 +138,9 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     latex-decode (0.4.0)
+    libv8-node (21.7.2.0)
     libv8-node (21.7.2.0-aarch64-linux)
+    libv8-node (21.7.2.0-x86_64-linux)
     liquid (4.0.4)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -145,6 +151,7 @@ GEM
     matrix (0.4.2)
     mercenary (0.4.0)
     mini_mime (1.1.5)
+    mini_portile2 (2.8.9)
     mini_racer (0.12.0)
       libv8-node (~> 21.7.2.0)
     minitest (5.22.3)
@@ -153,6 +160,9 @@ GEM
     mutex_m (0.2.0)
     namae (1.2.0)
       racc (~> 1.7)
+    nokogiri (1.16.5)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
     nokogiri (1.16.5-aarch64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -168,6 +178,10 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.77.5-aarch64-linux-gnu)
       google-protobuf (>= 3.25, < 5.0)
+    sass-embedded (1.77.5-x64-mingw-ucrt)
+      google-protobuf (>= 3.25, < 5.0)
+    sass-embedded (1.77.5-x86_64-linux-gnu)
+      google-protobuf (>= 3.25, < 5.0)
     sax-machine (1.3.2)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
@@ -181,6 +195,8 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
+  x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
@@ -209,4 +225,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.5.14
+   2.6.7
