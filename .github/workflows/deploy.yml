@@ -72,6 +72,25 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
+      - name: Cache additional dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.jupyter
+            ~/.npm
+          key: ${{ runner.os }}-deps-${{ hashFiles('**/requirements.txt', '**/Gemfile.lock', '**/package*.json') }}
+          restore-keys: |
+            ${{ runner.os }}-deps-
+      - name: Cache Jekyll build
+        uses: actions/cache@v4
+        with:
+          path: |
+            .jekyll-cache
+            .sass-cache
+          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.md', '**/*.html', '**/*.yml', '**/*.scss', '**/*.css', '**/*.js') }}
+          restore-keys: |
+            ${{ runner.os }}-jekyll-
       - name: Install ImageMagick 📷
         run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Update _config.yml ⚙️
@@ -81,19 +100,41 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Add x86_64-linux platform and update dependencies 🔧
+      - name: Configure bundle and check dependencies 🔧
         run: |
-          bundle lock --add-platform x86_64-linux
-          bundle update --bundler
-          bundle install
-      - name: Install and Build 🔧
+          # Check if bundle is already satisfied
+          if bundle check; then
+            echo "✅ Bundle dependencies are satisfied, skipping installation"
+          else
+            echo "📦 Installing bundle dependencies..."
+            # Add platform if not present
+            if ! grep -q "x86_64-linux" Gemfile.lock; then
+              bundle lock --add-platform x86_64-linux
+            fi
+            # Install missing dependencies only
+            bundle install --jobs 4 --retry 3
+          fi
+      - name: Install Python dependencies and Build 🔧
         run: |
-          pip3 install --upgrade jupyter
+          # Check if jupyter is already installed and up to date
+          if python3 -c "import jupyter" 2>/dev/null; then
+            echo "✅ Jupyter already installed, skipping"
+          else
+            echo "📦 Installing Jupyter..."
+            pip3 install --upgrade jupyter
+          fi
+          # Build site
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
-          npm install -g purgecss
+          # Check if purgecss is already installed
+          if command -v purgecss >/dev/null 2>&1; then
+            echo "✅ PurgeCSS already installed, skipping"
+          else
+            echo "📦 Installing PurgeCSS..."
+            npm install -g purgecss
+          fi
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
