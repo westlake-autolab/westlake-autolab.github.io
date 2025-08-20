@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1: World Modelling in Embodied AI
+title: "Project 1: World Modelling in Embodied AI"
 description: with background image
 img: assets/img/12.jpg
 importance: 1
