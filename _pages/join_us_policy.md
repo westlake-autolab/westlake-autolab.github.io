@@ -75,7 +75,7 @@ p, li {
 
 ## Application Method:
 
-Please send the following materials to autolab.hr@westlake.edu.cn and copy kyu@westlake.edu.cn at the same time. The subject of the email should be noted as "Application for [Position Name] + [Applicant's Name]". Those who meet the requirements and pass the initial review will be notified by email to arrange an interview. If you have any other questions, please feel free to email us (please also attach the materials). This recruitment notice is valid until the positions are filled. 
+Please send the following materials to <span style="color: #cd801e;">autolab.hr@westlake.edu.cn</span> and copy <span style="color: #cd801e;">kyu@westlake.edu.cn</span> at the same time. The subject of the email should be noted as <span style="color: #cd801e;">"Application for [Position Name] + [Applicant's Name]"</span>. Those who meet the requirements and pass the initial review will be notified by email to arrange an interview. If you have any other questions, please feel free to email us (please also attach the materials). This recruitment notice is valid until the positions are filled. 
 
 1. a. Personal resume;
 2. b. Representative achievements (such as published or submitted academic papers, project reports, transcripts, GitHub homepage, etc., that can prove the applicant's research and learning abilities).
