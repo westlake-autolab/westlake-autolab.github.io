@@ -31,6 +31,8 @@ jobs:
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
+      - name: Install ImageMagick 📷
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -41,6 +43,11 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      - name: Add x86_64-linux platform and update dependencies 🔧
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle update --bundler
+          bundle install
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
