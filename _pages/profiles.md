@@ -36,8 +36,7 @@ horizontal: false
             {% if project.subcategory == "Ph.D." %}
             <li class="mb-2">
               <i class="fas fa-graduation-cap text-primary me-2"></i>
-              <strong>{{ project.title }}</strong>
-              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+              <strong>{{ project.title }}</strong>{% if project.description %} - <span class="text-muted">{{ project.description }}</span>{% endif %}
             </li>
             {% endif %}
           {% endfor %}
@@ -57,8 +56,7 @@ horizontal: false
             {% if project.subcategory == "Research Assistant" %}
             <li class="mb-2">
               <i class="fas fa-user-graduate text-primary me-2"></i>
-              <strong>{{ project.title }}</strong>
-              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+              <strong>{{ project.title }}</strong>{% if project.description %} - <span class="text-muted">{{ project.description }}</span>{% endif %}
             </li>
             {% endif %}
           {% endfor %}
@@ -80,8 +78,7 @@ horizontal: false
             {% if project.subcategory == "Visiting Student" or project.subcategory == "Intern" %}
             <li class="mb-2">
               <i class="fas fa-users text-primary me-2"></i>
-              <strong>{{ project.title }}</strong>
-              {% if project.description %}<br><small class="text-muted">{{ project.description }}</small>{% endif %}
+              <strong>{{ project.title }}</strong>{% if project.description %} - <span class="text-muted">{{ project.description }}</span>{% endif %}
             </li>
             {% endif %}
           {% endfor %}

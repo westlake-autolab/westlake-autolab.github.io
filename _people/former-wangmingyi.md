@@ -1,10 +1,10 @@
 ---
-layout: people
+layout: page
 title: Mingyi Wang
-subtitle: Former Visiting Student
 description: PhD, ASU
 category: Alumni
 subcategory: Visiting Student
 importance: 1
-redirect: 
 ---
+
+Mingyi Wang - PhD, ASU
