@@ -33,6 +33,32 @@ related_publications: true
 <p>We will continue to optimize the self-correcting feedback loop framework, enhance the realism of the simulator, and improve high-level closed-loop capabilities. Our goal is to reduce data collection and training costs, further enhancing the robustness and generalization of autonomous driving models, ultimately driving autonomous driving technology toward a smarter and safer future.</p>
 
 
+
+
+
+<h3>Part 3: From Simulation to Reality: Toward Autonomous Embodied Robot</h3>
+
+<h4>Our Objective:</h4>
+<p>Human can quickly adapt to new environments and tasks by leveraging prior knowledge, physical intuition, and high-level reasoning. In contrast, robot often rely on massive-scale data collection and environment-specific training, yet still struggle to generalize across diverse scenarios and perform reliably in the real world.
+Our research focuses on bridging this gap by developing agents capable of transferring skills from simulation to the real world (Sim2Real), while building structured world models that enable generalizable reasoning, robust planning, and adaptive decision-making. We aim to move beyond brute-force imitation learning and toward data-efficient, autonomous intelligence.</p>
+
+<h4>Our Achievements So Far:</h4>
+
+<p>We propose a generative simulation module capable of diverse training scenes. This enables continuous policy generation and refinement within a closed-loop pipeline, where simulated experiences directly guide policy learning, and improved policies, in turn, trigger automatic generation of more challenging environments.</p>
+
+<p>To handle complex multi-agent environments, we introduce a socially-enhanced navigation policy that incorporates social attributes and interaction modeling into policy learning. By embedding social compliance, comfort metrics, and group dynamics into the reward structure, our agents achieve significantly better performance in crowded, dynamic, and socially-constrained navigation tasks.</p>
+
+
+<h4>Future Outlook</h4>
+
+<p>We plan to extend our framework to more diverse tasks and heterogeneous robotic platforms, enabling agents to autonomously collect data, learn concepts, and adapt policies online with minimal human supervision.
+Our long-term goal is to establish a unified paradigm for autonomous embodied intelligence, where agents not only learn efficiently from limited data but also generalize robustly to unseen environments, novel tasks, and real-world uncertainties.
+</p>
+
+
+
+
+
 <h3>Part 4: From Data to Concepts: Toward Efficient Driving Intelligence</h3>
 
 <h4>Our Objective:</h4>
