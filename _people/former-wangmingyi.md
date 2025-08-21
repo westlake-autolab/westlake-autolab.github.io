@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Wang Mingyi
+title: Mingyi Wang
 subtitle: Former Visiting Student
 description: PhD, ASU
 category: Alumni
