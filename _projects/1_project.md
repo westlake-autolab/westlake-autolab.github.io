@@ -67,7 +67,7 @@ related_publications: true
     
     <br>
     
-    b. <strong>Can visual generation supervision enhance VLMs' understanding?</strong>: We found that autoregressively reconstructing visual semantics can leads to stronger visual-language comprehension. {% cite wang2025autoregressive %}
+    b. <strong>Can visual generation supervision enhance VLMs' understanding?</strong> We found that autoregressively reconstructing visual semantics can leads to stronger visual-language comprehension. {% cite wang2025autoregressive %}
 </ul>
 
 <br>
