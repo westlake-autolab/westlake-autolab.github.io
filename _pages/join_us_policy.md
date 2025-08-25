@@ -10,7 +10,7 @@ p, li {
 ---
 
 
-## Postdoctoral Fellow 
+## **Postdoctoral Fellow** 
 
 ### Application Requirements: 
 
@@ -43,7 +43,7 @@ p, li {
 
 ---
 
-## Visiting Student/Personnel
+## **Visiting Student/Personnel**
 
 ### Application Requirements: 
 
@@ -55,7 +55,9 @@ p, li {
 
 1. a. The salaries of visiting personnel and visiting students are determined through discussion.
 
-## We can offer:
+---
+
+## **We can offer:**
 
 1. a. **Computing power**: West Lake has a 1000-card computing cluster (A100/V100/A800/H800), and is continuously purchasing. The group will also purchase at least 50 4090 cards for a computing cluster. I am well aware of the importance of computing power. Therefore, within the limits of financial resources and market supply, the laboratory will do its best to provide sufficient resources to enable everyone to fully devote themselves to scientific research. 
   
@@ -73,7 +75,7 @@ p, li {
 
 ---
 
-## Application Method:
+## **Application Method:**
 
 Please send the following materials to <span style="color: #cd801e;">autolab.hr@westlake.edu.cn</span> and copy <span style="color: #cd801e;">kyu@westlake.edu.cn</span> at the same time. The subject of the email should be noted as <span style="color: #cd801e;">"Application for [Position Name] + [Applicant's Name]"</span>. Those who meet the requirements and pass the initial review will be notified by email to arrange an interview. If you have any other questions, please feel free to email us (please also attach the materials). This recruitment notice is valid until the positions are filled. 
 
