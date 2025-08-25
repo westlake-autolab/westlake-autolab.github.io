@@ -50,6 +50,33 @@ related_publications: true
 
 <br><br>
 
+<h3><strong>Part 2: Unifying Muti-modal Understanding and Generation</strong></h3>
+
+<br>
+
+<h4>Our Objective:</h4>
+<p>We believe that understanding and generation are two sides of the same coin in perceiving the world: deeper understanding enables more precise generation, while the ability to generate in turn reinforces the model’s grasp of the underlying patterns of the world. Toward this vision, we focus on (i) constructing more effective unified MLLM architectures, (ii) developing unified discrete/continuous multimodal representations, (iii) designing more effective visual tokenization methods, and (iv) exploring how generative capabilities can be leveraged to genuinely enhance understanding.</p>
+
+<br>
+
+<h4>Our Achievements So Far:</h4>
+
+<ul>
+    a. <strong>Unified Visual Tokenizer</strong>: We proposed DualToken, a unified visual tokenizer for both understanding and generation. To disentangle the conflict between understanding and generation, we introduced separate codebooks for semantic and pixel-level objectives in visual tokenzier. DualToken achieves state-of-the-art performance in both reconstruction and semantic tasks while demonstrating remarkable effectiveness in downstream MLLM understanding and generation tasks. {% cite song2025dualtoken %}
+    
+    <br>
+    
+    b. <strong>Can visual generation supervision enhance VLMs' understanding?</strong>: We found that autoregressively reconstructing visual semantics can leads to stronger visual-language comprehension. {% cite wang2025autoregressive %}
+</ul>
+
+<br>
+
+<h4>Future Outlook</h4>
+
+<p>First, we aim to design more efficient and scalable tokenization mechanisms that can flexibly adapt to diverse modalities beyond vision and language, such as audio and video. Second, we intend to investigate how generative objectives can be more tightly integrated with understanding tasks, enabling mutual reinforcement between generation and understanding. Third, we envision applying our framework to real-world applications, such as embodied AI, to validate its broader impact.</p>
+
+<br><br>
+
 <h3><strong>Part 3: From Simulation to Reality: Toward Autonomous Embodied Robot</strong></h3>
 
 <br>
