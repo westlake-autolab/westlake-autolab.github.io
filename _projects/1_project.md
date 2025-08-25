@@ -7,7 +7,8 @@ importance: 1
 related_publications: true
 ---
 
-<p>TODO: Summary</p>
+<p>We develop structured world models to enable more robust, adaptive, and data-efficient embodied intelligence, with autonomous driving as a core testbed. Our research spans four directions: (i) enhancing rule understanding via generative world models, (ii) unifying multimodal understanding and generation, (iii) bridging simulation and reality for embodied robots, and (iv) learning high-level concepts for data-efficient driving intelligence. Together, these efforts aim to build agents that are safer, more adaptive, and capable of robust generalization in complex real-world environments.</p>
+
 
 <br>
 
