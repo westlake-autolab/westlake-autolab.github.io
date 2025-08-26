@@ -116,6 +116,12 @@ Our long-term goal is to establish a unified paradigm for autonomous embodied in
 <p>Human drivers typically require only limited formal training—covering traffic rules, basic operations, simulated road practice, and driving norms—before gradually adapting to increasingly complex and unfamiliar situations with experience. In contrast, autonomous driving systems have consumed millions or even billions of data samples, yet achieving fully reliable performance still remains a challenge.
 Our research explores whether autonomous agents can move beyond brute-force data accumulation by developing higher-level conceptual understanding from their training, somewhat akin to the human ability to generalize through intuition. We believe such an approach could lead to more data-efficient learning and enable agents to handle rare and long-tail scenarios more effectively. {% cite jia2024bench2drive %}</p>
 
+<!-- image -->
+<div style="text-align:center; margin:20px 0;">
+    <img src="assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="70%">
+    <p style="font-size:14px; color:gray;">Figure 1: Comparison between data-driven and concept-guided approaches.</p>
+</div>
+
 <br>
 
 <h4>Our Achievements So Far:</h4>
