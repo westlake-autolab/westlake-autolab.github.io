@@ -71,7 +71,7 @@ Figure 1: Enhancing Rule Understanding Using Generative World Models.
 
 <!-- <div style="text-align:center; margin:20px 0;">
     <img src="/assets/img/proj1_2.png" alt="Unifying Understanding and Generation" width="70%">
-    <p style="font-size:14px; color:gray;">Figure 1: Understanding and generation are two sides of the same coin.</p>
+    <p style="font-size:14px; color:gray;">Figure 2: Understanding and generation are two sides of the same coin.</p>
 </div> -->
 
 {% include figure.liquid loading="eager" path="assets/img/proj1_2.png" title="example." class="img-fluid rounded z-depth-1" %}
