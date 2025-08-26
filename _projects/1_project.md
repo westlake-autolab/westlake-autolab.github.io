@@ -18,7 +18,7 @@ related_publications: true
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="assets/img/proj1part1_abstract.png" alt="Enhancing Rule Understanding" width="70%">
+    <img src="/assets/img/proj1part1_abstract.png" alt="Enhancing Rule Understanding" width="70%">
     <p style="font-size:14px; color:gray;">Figure 1: Enhancing Rule Understanding Using Generative World Models.</p>
 </div>
 
@@ -67,7 +67,7 @@ related_publications: true
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="assets/img/proj1_2.png" alt="Unifying Understanding and Generation" width="70%">
+    <img src="/assets/img/proj1_2.png" alt="Unifying Understanding and Generation" width="70%">
     <p style="font-size:14px; color:gray;">Figure 1: Understanding and generation are two sides of the same coin.</p>
 </div>
 
@@ -101,7 +101,7 @@ Our research focuses on bridging this gap by developing agents capable of transf
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="70%">
+    <img src="/assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="70%">
     <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot. </p>
 </div>
 
@@ -137,7 +137,7 @@ Our research explores whether autonomous agents can move beyond brute-force data
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="70%">
+    <img src="/assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="70%">
     <p style="font-size:14px; color:gray;">Figure 4: Comparison between data-driven and concept-guided approaches.</p>
 </div>
 
