@@ -65,6 +65,12 @@ related_publications: true
 <h4>Our Objective:</h4>
 <p>We believe that understanding and generation are two sides of the same coin in perceiving the world: deeper understanding enables more precise generation, while the ability to generate in turn reinforces the model’s grasp of the underlying patterns of the world. Toward this vision, we focus on (i) constructing more effective unified MLLM architectures, (ii) developing unified discrete/continuous multimodal representations, (iii) designing more effective visual tokenization methods, and (iv) exploring how generative capabilities can be leveraged to genuinely enhance understanding.</p>
 
+<!-- image -->
+<div style="text-align:center; margin:20px 0;">
+    <img src="assets/img/proj1_2.png" alt="Unifying Understanding and Generation" width="70%">
+    <p style="font-size:14px; color:gray;">Figure 1: Understanding and generation are two sides of the same coin.</p>
+</div>
+
 <br>
 
 <h4>Our Achievements So Far:</h4>
