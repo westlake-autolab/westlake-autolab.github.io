@@ -93,6 +93,12 @@ related_publications: true
 <p>Human can quickly adapt to new environments and tasks by leveraging prior knowledge, physical intuition, and high-level reasoning. In contrast, robot often rely on massive-scale data collection and environment-specific training, yet still struggle to generalize across diverse scenarios and perform reliably in the real world.
 Our research focuses on bridging this gap by developing agents capable of transferring skills from simulation to the real world (Sim2Real), while building structured world models that enable generalizable reasoning, robust planning, and adaptive decision-making. We aim to move beyond brute-force imitation learning and toward data-efficient, autonomous intelligence.</p>
 
+<!-- image -->
+<div style="text-align:center; margin:20px 0;">
+    <img src="assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="70%">
+    <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot.</p>
+</div>
+
 <br>
 
 <h4>Our Achievements So Far:</h4>
@@ -126,7 +132,7 @@ Our research explores whether autonomous agents can move beyond brute-force data
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
     <img src="assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="70%">
-    <p style="font-size:14px; color:gray;">Figure 1: Comparison between data-driven and concept-guided approaches.</p>
+    <p style="font-size:14px; color:gray;">Figure 4: Comparison between data-driven and concept-guided approaches.</p>
 </div>
 
 <br>
