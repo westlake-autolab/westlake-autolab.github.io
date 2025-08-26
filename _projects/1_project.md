@@ -96,7 +96,7 @@ Our research focuses on bridging this gap by developing agents capable of transf
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
     <img src="assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="70%">
-    <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot.</p>
+    <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot. </p>
 </div>
 
 <br>
