@@ -17,13 +17,13 @@ related_publications: true
 <br>
 
 <!-- image -->
-<!-- <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/proj1part1_abstract.png" alt="Enhancing Rule Understanding" width="70%">
+<div style="text-align:center; margin:20px 0;">
+    <img src="/assets/img/proj1part1_abstract.png" alt="Enhancing Rule Understanding" width="95%">
     <p style="font-size:14px; color:gray;">Figure 1: Enhancing Rule Understanding Using Generative World Models.</p>
-</div> --> -->
+</div> -->
 
-{% include figure.liquid loading="eager" path="assets/img/proj1part1_abstract.png" title="Enhancing Rule Understanding Using Generative World Models." class="img-fluid rounded z-depth-1" %}
-Figure 1: Enhancing Rule Understanding Using Generative World Models.
+<!-- {% include figure.liquid loading="eager" path="assets/img/proj1part1_abstract.png" title="Enhancing Rule Understanding Using Generative World Models." class="img-fluid rounded z-depth-1" %} -->
+<!-- Figure 1: Enhancing Rule Understanding Using Generative World Models. -->
 
 
 <h4>Our Objective:</h4>
@@ -69,13 +69,13 @@ Figure 1: Enhancing Rule Understanding Using Generative World Models.
 <p>We believe that understanding and generation are two sides of the same coin in perceiving the world: deeper understanding enables more precise generation, while the ability to generate in turn reinforces the model’s grasp of the underlying patterns of the world. Toward this vision, we focus on (i) constructing more effective unified MLLM architectures, (ii) developing unified discrete/continuous multimodal representations, (iii) designing more effective visual tokenization methods, and (iv) exploring how generative capabilities can be leveraged to genuinely enhance understanding.</p>
 
 
-<!-- <div style="text-align:center; margin:20px 0;">
+<div style="text-align:center; margin:20px 0;">
     <img src="/assets/img/proj1_2.png" alt="Unifying Understanding and Generation" width="70%">
     <p style="font-size:14px; color:gray;">Figure 2: Understanding and generation are two sides of the same coin.</p>
-</div> -->
+</div>
 
-{% include figure.liquid loading="eager" path="assets/img/proj1_2.png" title="example." class="img-fluid rounded z-depth-1" %}
-Figure 2: Understanding and generation are two sides of the same coin.
+<!-- {% include figure.liquid loading="eager" path="assets/img/proj1_2.png" title="example." class="img-fluid rounded z-depth-1" %} -->
+<!-- Figure 2: Understanding and generation are two sides of the same coin. -->
 
 <br>
 
@@ -106,13 +106,13 @@ Figure 2: Understanding and generation are two sides of the same coin.
 Our research focuses on bridging this gap by developing agents capable of transferring skills from simulation to the real world (Sim2Real), while building structured world models that enable generalizable reasoning, robust planning, and adaptive decision-making. We aim to move beyond brute-force imitation learning and toward data-efficient, autonomous intelligence.</p>
 
 
-<!-- <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="70%">
+<div style="text-align:center; margin:20px 0;">
+    <img src="/assets/img/proj1part3_abstract.png" alt="Towards Data-Driven Autonomous Embodied Robot" width="85%">
     <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot. </p>
-</div> -->
+</div>
 
-{% include figure.liquid loading="eager" path="assets/img/proj1part3_abstract.png" title="example." class="img-fluid rounded z-depth-1" %}
-Figure 3: Towards Data-Driven Autonomous Embodied Robot.
+<!-- {% include figure.liquid loading="eager" path="assets/img/proj1part3_abstract.png" title="example." class="img-fluid rounded z-depth-1" %} -->
+<!-- Figure 3: Towards Data-Driven Autonomous Embodied Robot. -->
 
 <br>
 
@@ -145,13 +145,13 @@ Our long-term goal is to establish a unified paradigm for autonomous embodied in
 Our research explores whether autonomous agents can move beyond brute-force data accumulation by developing higher-level conceptual understanding from their training, somewhat akin to the human ability to generalize through intuition. We believe such an approach could lead to more data-efficient learning and enable agents to handle rare and long-tail scenarios more effectively. {% cite jia2024bench2drive %}</p>
 
 
-<!-- <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="70%">
+<div style="text-align:center; margin:20px 0;">
+    <img src="/assets/img/Project1_part4_by_zijian/concept_learning.png" alt="Data-driven vs Concept Illustration" width="95%">
     <p style="font-size:14px; color:gray;">Figure 4: Comparison between data-driven and concept-guided approaches.</p>
-</div> -->
+</div>
 
-{% include figure.liquid loading="eager" path="assets/img/Project1_part4_by_zijian/concept_learning.png" title="example." class="img-fluid rounded z-depth-1" %}
-Figure 4: Comparison between data-driven and concept-guided approaches.
+<!-- {% include figure.liquid loading="eager" path="assets/img/Project1_part4_by_zijian/concept_learning.png" title="example." class="img-fluid rounded z-depth-1" %} -->
+<!-- Figure 4: Comparison between data-driven and concept-guided approaches. -->
 
 <br>
 
