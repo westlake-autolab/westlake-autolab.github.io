@@ -16,6 +16,13 @@ related_publications: true
 
 <br>
 
+<!-- image -->
+<div style="text-align:center; margin:20px 0;">
+    <img src="assets/img/proj1part1_abstract.png" alt="Enhancing Rule Understanding" width="70%">
+    <p style="font-size:14px; color:gray;">Figure 1: Enhancing Rule Understanding Using Generative World Models.</p>
+</div>
+
+
 <h4>Our Objective:</h4>
 <p>The core of an autonomous driving system lies in its deep understanding of the surrounding environment and traffic rules. However, current autonomous driving technology still faces challenges when dealing with complex or rare high-level rules. For instance, "How should the system decide when a police officer's hand gesture conflicts with traffic signal indications?" Such situations highlight the current system's shortcomings. Therefore, integrating these complex rules effectively into autonomous driving models becomes a critical issue for improving system reliability. The cause of this problem is the "long tail effect" of real-world data: rare but crucial hazardous scenarios are extremely sparse in datasets. Relying on manual data collection for such scenarios is not only costly but also entails significant safety risks. To address this challenge, our research utilizes Generative AI to construct a data feedback loop framework. This framework uses a Generative World Model to create large-scale simulation scenes that include complex high-level rules and complete 3D ground truth. These high-quality synthetic data are then used to train the main driving model, compensating for its shortcomings in rule understanding, and ultimately improving its decision-making ability in real-world environments.</p>
 
