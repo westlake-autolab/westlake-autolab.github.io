@@ -34,23 +34,23 @@ related_publications: true
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-1、<strong>Static World Construction</strong>: Achieved fine-grained control in generating static 3D driving scenes. {% cite yang2023bevcontrol %}
+1. <strong>Static World Construction</strong>: Achieved fine-grained control in generating static 3D driving scenes. {% cite yang2023bevcontrol %}
     
     <br>
     
-2、 <strong>Dynamic World Synthesis</strong>: Expanded the model to include temporal sequences, resulting in the continuous generation of 4D video, demonstrating the model's performance in dynamic environments. {% cite ma2024unleashing %}
+2. <strong>Dynamic World Synthesis</strong>: Expanded the model to include temporal sequences, resulting in the continuous generation of 4D video, demonstrating the model's performance in dynamic environments. {% cite ma2024unleashing %}
     
     <br>
     
-3、<strong>Model Self-Correction</strong>: Built the data feedback loop framework, enabling the system to learn from the generated data and perform self-correction and optimization. {% cite ma2024unleashing %}
+3. <strong>Model Self-Correction</strong>: Built the data feedback loop framework, enabling the system to learn from the generated data and perform self-correction and optimization. {% cite ma2024unleashing %}
     
     <br>
     
-    d. <strong>Multimodal Joint Generation</strong>: By unifying multimodal features through a shared Bird's Eye View (BEV) space, we achieve consistent joint generation of multimodal sensor data, enhancing the multimodal perception capability of autonomous driving systems. {% cite tang2025omnigen %}
+4. <strong>Multimodal Joint Generation</strong>: By unifying multimodal features through a shared Bird's Eye View (BEV) space, we achieve consistent joint generation of multimodal sensor data, enhancing the multimodal perception capability of autonomous driving systems. {% cite tang2025omnigen %}
     
     <br>
     
-    e. <strong>Trajectory Risk Prediction Enhancement</strong>: By using synthetic trajectory data, we enhanced the Visual Language Model (VLM) in predicting the risks associated with planned trajectories, thereby improving the safety of the planned trajectories. This advancement helps foresee potential risks in real driving scenarios, optimizing the safety of autonomous driving decisions. {% cite hou2025drivemrp %}
+5. <strong>Trajectory Risk Prediction Enhancement</strong>: By using synthetic trajectory data, we enhanced the Visual Language Model (VLM) in predicting the risks associated with planned trajectories, thereby improving the safety of the planned trajectories. This advancement helps foresee potential risks in real driving scenarios, optimizing the safety of autonomous driving decisions. {% cite hou2025drivemrp %}
 </ul>
 
 <br>
@@ -80,11 +80,11 @@ related_publications: true
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-    a. <strong>Unified Visual Tokenizer</strong>: We proposed DualToken, a unified visual tokenizer for both understanding and generation. To disentangle the conflict between understanding and generation, we introduced separate codebooks for semantic and pixel-level objectives in visual tokenzier. DualToken achieves state-of-the-art performance in both reconstruction and semantic tasks while demonstrating remarkable effectiveness in downstream MLLM understanding and generation tasks. {% cite song2025dualtoken %}
+1. <strong>Unified Visual Tokenizer</strong>: We proposed DualToken, a unified visual tokenizer for both understanding and generation. To disentangle the conflict between understanding and generation, we introduced separate codebooks for semantic and pixel-level objectives in visual tokenzier. DualToken achieves state-of-the-art performance in both reconstruction and semantic tasks while demonstrating remarkable effectiveness in downstream MLLM understanding and generation tasks. {% cite song2025dualtoken %}
     
     <br>
     
-    b. <strong>Can visual generation supervision enhance VLMs' understanding?</strong> We found that autoregressively reconstructing visual semantics can leads to stronger visual-language comprehension. {% cite wang2025autoregressive %}
+2. <strong>Can visual generation supervision enhance VLMs' understanding?</strong> We found that autoregressively reconstructing visual semantics can leads to stronger visual-language comprehension. {% cite wang2025autoregressive %}
 </ul>
 
 <br>
@@ -115,11 +115,11 @@ Our research focuses on bridging this gap by developing agents capable of transf
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-    a. <strong>Generative Simulation Module</strong>: We propose a generative simulation module capable of diverse training scenes. This enables continuous policy generation and refinement within a closed-loop pipeline, where simulated experiences directly guide policy learning, and improved policies, in turn, trigger automatic generation of more challenging environments.
+1. <strong>Generative Simulation Module</strong>: We propose a generative simulation module capable of diverse training scenes. This enables continuous policy generation and refinement within a closed-loop pipeline, where simulated experiences directly guide policy learning, and improved policies, in turn, trigger automatic generation of more challenging environments.
     
     <br>
     
-    b. <strong>Socially-Enhanced Navigation Policy</strong>: To handle complex multi-agent environments, we introduce a socially-enhanced navigation policy that incorporates social attributes and interaction modeling into policy learning. By embedding social compliance, comfort metrics, and group dynamics into the reward structure, our agents achieve significantly better performance in crowded, dynamic, and socially-constrained navigation tasks.
+2. <strong>Socially-Enhanced Navigation Policy</strong>: To handle complex multi-agent environments, we introduce a socially-enhanced navigation policy that incorporates social attributes and interaction modeling into policy learning. By embedding social compliance, comfort metrics, and group dynamics into the reward structure, our agents achieve significantly better performance in crowded, dynamic, and socially-constrained navigation tasks.
 </ul>
 
 <br>
@@ -152,7 +152,7 @@ Our research explores whether autonomous agents can move beyond brute-force data
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-    a. <strong>Concept-Learning Module</strong>: We are developing a concept-learning module that complements existing end-to-end driving architectures.{% cite renz2025simlingo %} This module aims to build a structured understanding of driving scenarios in parallel with traditional perception and control pipelines.
+1. <strong>Concept-Learning Module</strong>: We are developing a concept-learning module that complements existing end-to-end driving architectures.{% cite renz2025simlingo %} This module aims to build a structured understanding of driving scenarios in parallel with traditional perception and control pipelines.
 </ul>
 
 <br>
