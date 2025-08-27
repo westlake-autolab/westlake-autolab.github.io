@@ -28,8 +28,6 @@ related_publications: true
     <p style="font-size:14px; color:gray;">Figure 1: Enhancing Rule Understanding Using Generative World Models.</p>
 </div>
 
-<!-- {% include figure.liquid loading="eager" path="assets/img/proj1part1_abstract.png" title="Enhancing Rule Understanding Using Generative World Models." class="img-fluid rounded z-depth-1" %} -->
-<!-- Figure 1: Enhancing Rule Understanding Using Generative World Models. -->
 
 <br>
 
@@ -76,8 +74,6 @@ related_publications: true
     <p style="font-size:14px; color:gray;">Figure 2: Understanding and generation are two sides of the same coin.</p>
 </div>
 
-<!-- {% include figure.liquid loading="eager" path="assets/img/proj1_2.png" title="example." class="img-fluid rounded z-depth-1" %} -->
-<!-- Figure 2: Understanding and generation are two sides of the same coin. -->
 
 <br>
 
@@ -113,8 +109,6 @@ Our research focuses on bridging this gap by developing agents capable of transf
     <p style="font-size:14px; color:gray;">Figure 3: Towards Data-Driven Autonomous Embodied Robot. </p>
 </div>
 
-<!-- {% include figure.liquid loading="eager" path="assets/img/proj1part3_abstract.png" title="example." class="img-fluid rounded z-depth-1" %} -->
-<!-- Figure 3: Towards Data-Driven Autonomous Embodied Robot. -->
 
 <br>
 
@@ -152,8 +146,6 @@ Our research explores whether autonomous agents can move beyond brute-force data
     <p style="font-size:14px; color:gray;">Figure 4: Comparison between data-driven and concept-guided approaches.</p>
 </div>
 
-<!-- {% include figure.liquid loading="eager" path="assets/img/Project1_part4_by_zijian/concept_learning.png" title="example." class="img-fluid rounded z-depth-1" %} -->
-<!-- Figure 4: Comparison between data-driven and concept-guided approaches. -->
 
 <br>
 
