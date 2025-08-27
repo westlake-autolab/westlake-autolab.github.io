@@ -34,15 +34,15 @@ related_publications: true
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-    a. <strong>Static World Construction</strong>: Achieved fine-grained control in generating static 3D driving scenes. {% cite yang2023bevcontrol %}
+1、<strong>Static World Construction</strong>: Achieved fine-grained control in generating static 3D driving scenes. {% cite yang2023bevcontrol %}
     
     <br>
     
-    b. <strong>Dynamic World Synthesis</strong>: Expanded the model to include temporal sequences, resulting in the continuous generation of 4D video, demonstrating the model's performance in dynamic environments. {% cite ma2024unleashing %}
+2、 <strong>Dynamic World Synthesis</strong>: Expanded the model to include temporal sequences, resulting in the continuous generation of 4D video, demonstrating the model's performance in dynamic environments. {% cite ma2024unleashing %}
     
     <br>
     
-    c. <strong>Model Self-Correction</strong>: Built the data feedback loop framework, enabling the system to learn from the generated data and perform self-correction and optimization. {% cite ma2024unleashing %}
+3、<strong>Model Self-Correction</strong>: Built the data feedback loop framework, enabling the system to learn from the generated data and perform self-correction and optimization. {% cite ma2024unleashing %}
     
     <br>
     
