@@ -2,7 +2,7 @@
 layout: page
 title: "Project 4: Human–AI Co‑Evolution and Agentic Research"
 description:
-img: 
+img: assets/img/project4-pic2.png
 importance: 1
 related_publications: false
 ---
@@ -14,7 +14,7 @@ We are exploring a bold new research and education paradigm built around <em>hum
 <h3><strong>Part 1: Human–AI Co‑Evolution — Redefining Research</strong></h3>
 <br>
 <h4>Our Objective:</h4> 
-<p>Current AI applications often focus on automation or substitution, yet real breakthroughs require tight coupling between human creativity and machine intelligence. In the our vision, <strong>human–AI co‑evolution</strong> becomes a driving force: humans and AI agents continually influence each other, forming an iterative feedback loop. Such co‑evolution implies that AI algorithms learn from human choices, and the resulting AI suggestions reshape subsequent human decisions. By delegating literature mining, data curation and preliminary simulations to AI, human researchers can focus on high‑level reasoning, critical thinking and validation.</p> 
+<p>Current AI applications often focus on automation or substitution, yet real breakthroughs require tight coupling between human creativity and machine intelligence. In our vision, <strong>human–AI co‑evolution</strong> becomes a driving force: humans and AI agents continually influence each other, forming an iterative feedback loop. Such co‑evolution implies that AI algorithms learn from human choices, and the resulting AI suggestions reshape subsequent human decisions. By delegating literature mining, data curation and preliminary simulations to AI, human researchers can focus on high‑level reasoning, critical thinking and validation.</p> 
 
 <br>
 
