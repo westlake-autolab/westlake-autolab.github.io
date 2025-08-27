@@ -17,7 +17,7 @@ related_publications: false
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/project4-pic2.jpg" alt="Enhancing Rule Understanding" width="95%">
+    <img src="/assets/img/project4-pic2.png"  width="95%">
     <p style="font-size:14px; color:gray;">Figure 1: Conceptual illustration of human–AI co‑evolution. Human silhouettes are connected to glowing AI nodes, symbolizing collaborative evolution and knowledge exchange.</p>
 </div>
 
@@ -32,7 +32,7 @@ related_publications: false
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/project4-pic4.jpg" alt="Enhancing Rule Understanding" width="95%">
+    <img src="/assets/img/project4-pic4.png"  width="95%">
     <p style="font-size:14px; color:gray;">Figure 2: A conceptual multi‑agent research network.  Glowing nodes represent AI agents and human collaborators connected across a global network, illustrating distributed task allocation and information flow.</p>
 </div>
 
@@ -50,7 +50,7 @@ related_publications: false
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <img src="/assets/img/project4-pic3.jpg" alt="Enhancing Rule Understanding" width="95%">
+    <img src="/assets/img/project4-pic3.png"  width="95%">
     <p style="font-size:14px; color:gray;">Figure 3: A student interacts with a friendly holographic AI tutor via a tablet.  The AI provides personalized guidance and enables continuous, 24/7 learning support.</p>
 </div>
 
