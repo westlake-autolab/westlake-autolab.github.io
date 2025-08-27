@@ -73,7 +73,7 @@ related_publications: true
 <h4>Our Achievements So Far:</h4>
 
 <ul>
-<strong>PatentAgent: Intelligent Agent for Pharmaceutical Patent Analysis</strong>
+1. <strong>PatentAgent: Intelligent Agent for Pharmaceutical Patent Analysis</strong>
 {% cite wang2024textttpatentagentintelligentagentautomated %}
 <p>We developed PatentAgent, an intelligent agent system for automated pharmaceutical patent analysis. This system demonstrates the practical application of agentic AI in drug discovery and intellectual property research, showcasing how AI agents can assist researchers in analyzing complex patent documents, identifying novel compounds, and tracking competitive landscapes in the pharmaceutical industry.</p>
 </ul>
