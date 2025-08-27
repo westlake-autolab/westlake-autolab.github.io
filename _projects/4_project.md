@@ -8,7 +8,7 @@ related_publications: false
 ---
 
 <p> 
-We are exploring a bold new research and education paradigm built around <em>human–AI co‑evolution</em> and <em>agentic collaboration</em>. Instead of treating AI as a simple tool, we envision a future in which human scientists and specialized AI agents evolve together. Human researchers remain at the center, setting visionary goals and making key decisions, while AI agents assist with literature analysis, hypothesis generation and task management. This synergy aims to break through the bottlenecks of traditional hierarchical research structures and accelerate innovation across disciplines. The following sections outline the core principles, technical frameworks and educational initiatives. </p> <br>
+We are exploring a new research and education paradigm built around <strong>human–AI co‑evolution and agentic collaboration</strong>. Instead of treating AI as a simple tool, we envision a future in which human scientists and specialized AI agents evolve together. Human researchers remain at the center, setting visionary goals and making key decisions, while AI agents assist with literature analysis, hypothesis generation and task management. This synergy aims to break through the bottlenecks of traditional hierarchical research structures and accelerate innovation across disciplines. The following sections outline the core principles, technical frameworks and educational initiatives. </p> <br>
 
 
 <h3><strong>Part 1: Human–AI Co‑Evolution — Redefining Research</strong></h3>
