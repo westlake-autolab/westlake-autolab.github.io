@@ -1,14 +1,16 @@
+---
 layout: page
 title: "Project 4: Human–AI Co‑Evolution and Agentic Research"
 description:
 img: 
 importance: 1
 related_publications: false
+---
 
 <p>We are exploring a bold new research and education paradigm built around <em>human–AI co‑evolution</em> and <em>agentic collaboration</em>. Instead of treating AI as a simple tool, the department envisions a future in which human scientists and specialized AI agents evolve together. Human researchers remain at the center, setting visionary goals and making key decisions, while AI agents assist with literature analysis, hypothesis generation and task management. This synergy aims to break through the bottlenecks of traditional hierarchical research structures and accelerate innovation across disciplines. The following sections outline the core principles, technical frameworks and educational initiatives being pursued by the department.</p> <br>
 
 
-Part 1: Human–AI Co‑Evolution — Redefining Research
+<h3><strong>Part 1: Human–AI Co‑Evolution — Redefining Research</strong></h3>
 
 <h4>Our Objective:</h4> 
 <p>Current AI applications often focus on automation or substitution, yet real breakthroughs require tight coupling between human creativity and machine intelligence. In the department’s vision, <strong>human–AI co‑evolution</strong> becomes a driving force: humans and AI agents continually influence each other, forming an iterative feedback loop:contentReference[oaicite:0]{index=0}. Such co‑evolution implies that AI algorithms learn from human choices, and the resulting AI suggestions reshape subsequent human decisions:contentReference[oaicite:1]{index=1}. To put this philosophy into practice, the department is developing the <em>Airalogy protocol</em>, which formalizes how complex research projects can be decomposed into clearly defined sub‑tasks that are then executed by mixed teams of human scientists and AI agents. By delegating literature mining, data curation and preliminary simulations to AI, human researchers can focus on high‑level reasoning, critical thinking and validation.</p> <!-- image --> <div style="text-align:center; margin:20px 0;"> <!-- The following image illustrates the concept of humans and AI nodes evolving together. --> :agentCitation{citationIndex='0' label='Human–AI co‑evolution network'}
@@ -19,7 +21,8 @@ Figure 1: Conceptual illustration of human–AI co‑evolution.  Human silhouet
 
 <br><br>
 
-Part 2: AI‑Enhanced Research Institution — Multi‑Agent Collaboration
+<h3><strong>Part 2: AI‑Enhanced Research Institution — Multi‑Agent Collaboration</strong></h3>
+  
 <h4>Our Objective:</h4> <p>Traditional research institutions often rely on hierarchical information flow from principal investigators to senior researchers, junior researchers and students. This structure hampers flexibility and slows down knowledge dissemination. To overcome these limitations, the department proposes an <strong>AI‑Enhanced Institute</strong>, powered by a network of specialized AI agents that collaborate with humans. Google’s <em>AI co‑scientist</em> demonstrates how a multi‑agent system can serve as a virtual scientific collaborator: built on Gemini 2.0, it helps researchers generate novel hypotheses and research proposals:contentReference[oaicite:3]{index=3}. The system leverages a coalition of specialized agents—Generation, Reflection, Ranking, Evolution, Proximity and Meta‑review—that iteratively generate, evaluate and refine hypotheses:contentReference[oaicite:4]{index=4}. Inspired by such advances, the AI department aims to build an agentic research network in which specialized AI agents communicate, allocate resources and evolve together with human scientists.</p> <!-- image --> <div style="text-align:center; margin:20px 0;"> <!-- The following image depicts a digital network of human and AI nodes collaborating across a global map. --> :agentCitation{citationIndex='1' label='Agentic research network'}
 <p style="font-size:14px; color:gray;">Figure 2: A conceptual multi‑agent research network.  Glowing nodes represent AI agents and human collaborators connected across a global network, illustrating distributed task allocation and information flow.</p>
 
@@ -27,7 +30,8 @@ Part 2: AI‑Enhanced Research Institution — Multi‑Agent Collaboration
 
 <br><br>
 
-Part 3: AI‑Augmented Education — Integrating Teaching and Research
+<h3><strong>Part 3: AI‑Augmented Education — Integrating Teaching and Research</strong></h3>
+
 <h4>Our Objective:</h4> <p>Education is not separate from research; rather, it is the training ground for future innovators. To prepare students for an AI‑first world, the department advocates a <strong>task‑driven, AI‑augmented learning model</strong>. In this model, principal investigators and senior researchers publish simplified modules of their research projects on the <em>Airalogy Edu</em> platform. Students choose tasks aligned with their interests, and AI tutors generate customized background materials, prerequisite knowledge maps and tailored learning paths. The aim is to enable students to “learn by doing,” acquiring scientific thinking through real research problems while being supported by AI guidance.</p> <!-- image --> <div style="text-align:center; margin:20px 0;"> <!-- The following image illustrates personalized AI tutoring. --> :agentCitation{citationIndex='2' label='AI‑augmented education'}
 <p style="font-size:14px; color:gray;">Figure 3: A student interacts with a friendly holographic AI tutor via a tablet.  The AI provides personalized guidance and enables continuous, 24/7 learning support.</p>
 
@@ -35,5 +39,5 @@ Part 3: AI‑Augmented Education — Integrating Teaching and Research
 
 <br><br>
 
-Part 4: Toward a Human‑Centred, AI‑Driven Future
+<h3><strong>Part 4: Toward a Human‑Centred, AI‑Driven Future</strong></h3>
 <p>The AI department’s vision goes beyond adopting cutting‑edge models; it seeks to reshape how science and education are organized. By intertwining human insight with agentic AI, the department aims to create a 24‑hour, distributed research ecosystem that spans undergraduates to principal investigators. This paradigm shift promises to elevate human creativity, improve information flow and open new avenues for scientific discovery. Through careful protocol design, multi‑agent collaboration and AI‑augmented education, the department is laying the foundation for a future in which human and machine intelligence co‑evolve for the benefit of both science and society.</p>
