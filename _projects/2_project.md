@@ -25,8 +25,7 @@ related_publications: true
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <!-- <img src="/assets/img/knowledge-integration-framework.png" alt="Knowledge Integration Framework" width="95%"> -->
-    <img src="/assets/img/THEtree_overview.png" alt="Knowledge Integration Framework" width="95%">
+    <img src="/assets/img/knowledge-integration-framework.png" alt="Knowledge Integration Framework" width="95%">
     <p style="font-size:14px; color:gray;">Figure 1: Integration of the Knowledge Into Agentic AI systems.</p>
 </div>
 
@@ -65,8 +64,7 @@ related_publications: true
 
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
-    <!-- <img src="/assets/img/pratical-agent-architecture.png" alt="SciAgent Architecture" width="95%"> -->
-    <img src="/assets/img/THEtree_overview.png" alt="SciAgent Architecture" width="95%">
+    <img src="/assets/img/pratical-agent-architecture.png" alt="SciAgent Architecture" width="95%">
     <p style="font-size:14px; color:gray;">Figure 2: Agentic AI for Practical Scientific Application.</p>
 </div>
 
@@ -76,7 +74,7 @@ related_publications: true
 
 <ul>
 <strong>PatentAgent: Intelligent Agent for Pharmaceutical Patent Analysis</strong>
-{% cite your2024patentagent %}
+{% cite wang2024textttpatentagentintelligentagentautomated %}
 <p>We developed PatentAgent, an intelligent agent system for automated pharmaceutical patent analysis. This system demonstrates the practical application of agentic AI in drug discovery and intellectual property research, showcasing how AI agents can assist researchers in analyzing complex patent documents, identifying novel compounds, and tracking competitive landscapes in the pharmaceutical industry.</p>
 </ul>
 
