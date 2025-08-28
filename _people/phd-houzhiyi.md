@@ -20,22 +20,23 @@ category: Ph.D.
 
     <!-- 个人介绍列（单独一行） -->
     <div class="col-12 text-center">  <!-- 添加 text-center 使文本居中 -->
-        <h2>Hi👋! My name is Zhang Jiahua.</h2>
+        <h2>Hi👋! My name is Zhiyi HOU.</h2>
 
             </div>
 </div>
 
 
 
-I am friendly and cooperative, and I study diligently. In my free time, I enjoy playing basketball and soccer. My current research focus is on large model inference.<br>
+Zhiyi Hou is a 2025 Ph.D. student at the Autonomous Driving Laboratory (AutoLab), Westlake University. His research interests focus on the spatial reasoning capabilities of Vision-Language Models (VLMs) and end-to-end decision-making for autonomous driving agents.<br>
         
-## Academic Achievements
-- ACL2025 Poster<br>
         
 ## Representative Paper
-- SR-LLM: Rethinking the Structured Representation in Large Language Model<br>
+1. Zhiyi Hou, Enhui Ma, Fang Li, Zhiyi Lai, Kalok Ho, Zhanqian Wu, Lijun Zhou, Long Chen, Chitian Sun, Haiyang Sun, Bing Wang, Guang Chen, Hangjun Ye, Kaicheng Yu, “DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction”, arXiv, 2025. <br>
+2. Tengfei Yu, Xuebo Liu, Zhiyi Hou, Liang Ding, Dacheng Tao, Min Zhang, “Self-Powered LLM Modality Expansion for Large Speech-Text Models”, EMNLP, 2024. <br>
+3. Yiran Liu, Xiaoang Xu, Zhiyi Hou, Yang Yu, “Causality Based Front-door Defense Against Backdoor Attack on Language Models”, ICML, 2024. <br>
         
-> Email： jiahuanzhang01@gmail.com
+> Email：houzhiyi@westlake.edu.cn
+
 
 
 
