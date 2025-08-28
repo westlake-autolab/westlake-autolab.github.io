@@ -7,7 +7,41 @@ importance: 1
 related_publications: true
 ---
 
-<p>Our core research agenda is to build an Autonomous Intelligence Modeling (AIM) framework—an intelligent, rule-grounded, data-efficient, and adaptive modeling pipeline designed to enhance the core capabilities of large language models (LLMs) and vision-language models (VLMs). To this end, we focus on three interrelated directions: (i) A training-and-inference framework that unifies induction and deduction. We aim to deeply integrate data-driven inductive capabilities with logic-driven deductive reasoning across the entire LLM training and inference lifecycle, reducing dependence on massive datasets and establishing a more efficient and interpretable paradigm for learning and reasoning. (ii) Rule-based inference augmentation for LLMs and VLMs. To address fundamental limitations in handling abstract compositional structures and complex spatial relations, we investigate a rule-driven paradigm that augments model inference with explicit rules. (iii) VLM cognitive reasoning over complex symbolic systems. Using oracle bone script and other ancient writing systems as representative cases, we explore VLMs’ ability to understand, analyze, and reason about highly regularized visual symbol systems. This interdisciplinary application serves as a rigorous test of the effectiveness of rule-augmented methods for complex visual reasoning and symbolic generalization. Together, these lines of work form a more intelligent and robust modeling-and-reasoning system that fundamentally strengthens the deep reasoning and systematic generalization abilities of current LLMs and VLMs.</p>
+<style>
+.project-content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content ul {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content ol {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* 针对所有图片描述段落的通用居中样式 */
+.project-content .figure-caption {
+    text-align: center !important;
+}
+</style>
+
+<div class="project-content">
+
+<p>Our core research agenda is to build an Autonomous Intelligence Modeling (AIM) framework—an intelligent, rule-grounded, data-efficient, and adaptive modeling pipeline designed to enhance the core capabilities of large language models (LLMs) and vision-language models (VLMs). To this end, we focus on three interrelated directions: (i) A training-and-inference framework that unifies induction and deduction. We aim to deeply integrate data-driven inductive capabilities with logic-driven deductive reasoning across the entire LLM training and inference lifecycle, reducing dependence on massive datasets and establishing a more efficient and interpretable paradigm for learning and reasoning. (ii) Rule-based inference augmentation for LLMs and VLMs. To address fundamental limitations in handling abstract compositional structures and complex spatial relations, we investigate a rule-driven paradigm that augments model inference with explicit rules. (iii) VLM cognitive reasoning over complex symbolic systems. Using oracle bone script and other ancient writing systems as representative cases, we explore VLMs' ability to understand, analyze, and reason about highly regularized visual symbol systems. This interdisciplinary application serves as a rigorous test of the effectiveness of rule-augmented methods for complex visual reasoning and symbolic generalization. Together, these lines of work form a more intelligent and robust modeling-and-reasoning system that fundamentally strengthens the deep reasoning and systematic generalization abilities of current LLMs and VLMs.</p>
 
 
 <br>
@@ -27,7 +61,7 @@ related_publications: true
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
     <img src="/assets/img/proj3part1_abstract.png" alt="Neural-Symbolic Co-Architecture" width="80%">
-    <p style="font-size:14px; color:gray;">Figure 1: Integrating neural intuition with symbolic logic for robust and verifiable AI .</p>
+    <p class="figure-caption" style="font-size:14px; color:gray;">Figure 1: Integrating neural intuition with symbolic logic for robust and verifiable AI .</p>
 </div>
 
 
@@ -59,7 +93,7 @@ related_publications: true
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
     <img src="/assets/img/proj3part2_abstract.png" alt="Rule-Driven Enhancement of LLM and VLM Reasoning" width="80%">
-    <p style="font-size:14px; color:gray;">Figure 2: Enhancing large models with rule-driven language and visual reasoning.</p>
+    <p class="figure-caption" style="font-size:14px; color:gray;">Figure 2: Enhancing large models with rule-driven language and visual reasoning.</p>
 </div>
 
 <br>
@@ -98,7 +132,7 @@ related_publications: true
 <!-- image -->
 <div style="text-align:center; margin:20px 0;">
     <img src="/assets/img/proj3part3_abstract.png" alt="Oracle Bone Recognition" width="80%">
-    <p style="font-size:14px; color:gray;">Figure 3: Enhancing VLM reasoning on complex symbols via spatial understanding.</p>
+    <p class="figure-caption" style="font-size:14px; color:gray;">Figure 3: Enhancing VLM reasoning on complex symbols via spatial understanding.</p>
 </div>
 
 <br>
