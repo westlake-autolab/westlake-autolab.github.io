@@ -3,6 +3,7 @@ layout: page
 title: Wei SONG
 description: 2024 Fall Ph.D.
 img: assets/img/songwei.jpeg
+importance: 4
 category: Ph.D.
 ---
 
