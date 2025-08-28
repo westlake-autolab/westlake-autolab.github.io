@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project 3: Autonomous Intelligence Modeling"
+title: "Autonomous Intelligence Modeling"
 description: "Enhancing deep reasoning and systematic generalization in large models through an Autonomous Intelligence Framework that integrates symbolic rules and data."
 img: assets/img/proj3.png
 importance: 1
