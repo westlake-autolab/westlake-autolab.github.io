@@ -3,7 +3,7 @@ layout: page
 title: Xinna LIN
 description: 2024 Fall Ph.D.
 img: assets/img/linxinna.jpg
-importance: 3
+importance: 9
 category: Ph.D.
 ---
 
