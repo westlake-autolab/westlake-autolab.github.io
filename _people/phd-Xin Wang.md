@@ -3,6 +3,7 @@ layout: page
 title: Xin Wang
 description: 2025 Fall Ph.D.
 img: assets/img/wangxin.jpg
+importance: 5
 category: Ph.D.
 ---
 
