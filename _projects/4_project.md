@@ -7,6 +7,51 @@ importance: 1
 related_publications: false
 ---
 
+<style>
+.project-content {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content ul {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content ol {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.project-content li {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* 保持图片描述居中 */
+.project-content p[style*="font-size:14px; color:gray"] {
+    text-align: center !important;
+}
+
+/* 更精确的选择器，针对图片描述 */
+.project-content p[style*="font-size:14px"] {
+    text-align: center !important;
+}
+
+/* 针对所有图片描述段落的通用居中样式 */
+.project-content .figure-caption {
+    text-align: center !important;
+}
+</style>
+
+<div class="project-content">
+
+
 <p> 
 We are exploring a new research and education paradigm built around <strong>human–AI co‑evolution and agentic collaboration</strong>. Instead of treating AI as a simple tool, we envision a future in which human scientists and specialized AI agents evolve together. Human researchers remain at the center, setting visionary goals and making key decisions, while AI agents assist with literature analysis, hypothesis generation and task management. This synergy aims to break through the bottlenecks of traditional hierarchical research structures and accelerate innovation across disciplines. The following sections outline the core principles, technical frameworks and educational initiatives. </p> <br>
 
@@ -70,3 +115,5 @@ We are exploring a new research and education paradigm built around <strong>huma
 <h3><strong>Part 4: Toward a Human‑Centred, AI‑Driven Future</strong></h3>
 <br>
 <p>Our vision goes beyond adopting cutting‑edge models; it seeks to reshape how science and education are organized. By intertwining human insight with agentic AI, we aim to create a 24‑hour, distributed research ecosystem that spans undergraduates to principal investigators. This paradigm shift promises to elevate human creativity, improve information flow and open new avenues for scientific discovery. Through careful protocol design, multi‑agent collaboration and AI‑augmented education, we are laying the foundation for a future in which human and machine intelligence co‑evolve for the benefit of both science and society.</p>
+
+</div>
