@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Jiahuan Zhang
-description: Visiting Student
-img: assets/img/张家焕.JPEG
-importance: 1
-category: Visiting Student
+title: Zhiyi HOU
+description: 2025 Fall Ph.D.
+img: assets/img/马子健.jpeg
+category: Ph.D.
 
 ---
 
@@ -37,6 +36,7 @@ I am friendly and cooperative, and I study diligently. In my free time, I enjoy 
 - SR-LLM: Rethinking the Structured Representation in Large Language Model<br>
         
 > Email： jiahuanzhang01@gmail.com
+
 
 
 
