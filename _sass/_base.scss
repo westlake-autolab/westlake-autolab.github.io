@@ -129,6 +129,15 @@ ul.task-list {
   list-style-type: none; /* Remove bullets from all levels */
 }
 
+/* 让有序列表的序号加粗 */
+// ol {
+//   font-weight: normal;
+// }
+
+ol li::marker {
+  font-weight: bold;
+}
+
 ul.task-list > li ul {
   /* Nested lists within .task-list */
   padding-inline-start: 1.5rem;

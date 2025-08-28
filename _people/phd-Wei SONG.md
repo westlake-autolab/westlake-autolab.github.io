@@ -3,6 +3,7 @@ layout: page
 title: Wei SONG
 description: 2024 Fall Ph.D.
 img: assets/img/songwei.jpeg
+importance: 3
 category: Ph.D.
 ---
 
@@ -24,7 +25,6 @@ category: Ph.D.
     </div>
 </div>
 
-Wei Song is currently a Ph.D. student @ Autolab and SII. He received his B.S. degree in 2024 from Zhejiang University. His research centers on vision-language models, and the development of unified architectures for multimodal understanding and generation.<br>
-
+Wei Song is currently a Ph.D. student @ Autolab and SII. He received his B.Eng. degree from Zhejiang University in 2024. His research centers on large multimodal models and unified architectures for multimodal understanding and generation.<br>
 
 > songwei@westlake.edu.cn

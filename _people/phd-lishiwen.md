@@ -3,6 +3,7 @@ layout: page
 title: Shiwen LI
 description: 2024 Fall Ph.D.
 img: assets/img/lishiwen.jpeg
+importance: 2
 category: Ph.D.
 ---
 

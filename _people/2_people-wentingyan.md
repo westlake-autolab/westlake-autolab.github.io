@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Administrative Assistant
-description: Tingyan Wen
+title: Tingyan Wen
+description: Administrative Assistant
 img: assets/img/wentingyan.jpg
 importance: 1
 category: Administrative Assistant
