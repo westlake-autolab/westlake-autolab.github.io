@@ -2,7 +2,7 @@
 layout: page
 title: Zhiyi HOU
 description: 2025 Fall Ph.D.
-img: assets/img/马子健.jpeg
+img: assets/img/houzhiyi.jpg
 category: Ph.D.
 
 ---
@@ -12,8 +12,8 @@ category: Ph.D.
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/张家焕.JPEG" 
-            title="Jiahuan ZHANG" 
+            path="assets/img/houzhiyi.jpg" 
+            title="Zhiyi HOU" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
     </div>
@@ -36,6 +36,7 @@ Zhiyi Hou is a 2025 Ph.D. student at the Autonomous Driving Laboratory (AutoLab)
 3. Yiran Liu, Xiaoang Xu, Zhiyi Hou, Yang Yu, “Causality Based Front-door Defense Against Backdoor Attack on Language Models”, ICML, 2024. <br>
         
 > Email：houzhiyi@westlake.edu.cn
+
 
 
 
