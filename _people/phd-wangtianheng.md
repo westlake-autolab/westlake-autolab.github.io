@@ -3,6 +3,7 @@ layout: page
 title: Tianheng WANG
 description: 2025 Fall Ph.D.
 img: assets/img/王天亨.jpeg
+importance: 8
 category: Ph.D.
 ---
 
