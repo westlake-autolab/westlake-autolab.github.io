@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project 2: Knowledge-Driven Agentic System for Science"
+title: "Knowledge-Driven Agentic System for Science"
 description: "Developing AI agents that leverage knowledge for scientific reasoning and discovery"
 img: assets/img/project2_overview.png
 importance: 1
