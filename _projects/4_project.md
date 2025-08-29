@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Human–AI Co‑Evolution and Agentic Research"
+title: "Human–AI Co‑Evolution and Agentic Research 1"
 description: "Exploring a new research and education paradigm built around human–AI co‑evolution and agentic collaboration"
 img: assets/img/project4-pic2.png
 importance: 1
