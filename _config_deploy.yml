@@ -18,6 +18,9 @@ icon: autolab_logo_sqr.jpeg # the emoji used as the favicon (alternatively, prov
 
 url: "" # 本地开发时留空以支持相对路径
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
+
+# Environment setting for plugins
+environment: production
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -273,6 +276,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - "*.py"
+  # - "*.md"
+  - "部署指南.md"
+  - "USAGE.md"
+  - "link_analysis.md"
+  - "REDIRECT_FIX_GUIDE.md"
 keep_files:
   - CNAME
   - .nojekyll
@@ -420,7 +429,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800

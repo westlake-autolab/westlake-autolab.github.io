@@ -2,7 +2,7 @@
 layout: page
 title: "World Modelling in Embodied AI"
 description: "Developing structured world models to enable more robust, adaptive, and data-efficient embodied intelligence, with autonomous driving as a core testbed"
-img: assets/img/ChatGPT Image 2025年8月22日 11_00_43
+img: assets/img/ChatGPT_Image_2025年8月22日_11_00_43
 importance: 1
 related_publications: true
 ---
