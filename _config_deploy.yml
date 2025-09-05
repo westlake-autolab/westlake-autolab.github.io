@@ -130,12 +130,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+permalink: /:title.html
 lsi: false # produce an index for related posts
 
-# Pagination
+# Pagination - 扁平化配置
 pagination:
   enabled: true
+  per_page: 5
+  permalink: "/page:num.html"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
 
 related_blog_posts:
   enabled: true
@@ -187,13 +193,13 @@ newsletter:
 collections:
   news:
     output: false
-    permalink: /:collection/:title/
+    permalink: /:title.html
   projects:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title.html
   people:
     output: true
-    permalink: /people/:path/
+    permalink: /:name.html
 
 announcements:
   enabled: false
@@ -209,8 +215,23 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# 部署配置 - 输出到 dist 目录
+# 部署配置 - 输出到扁平的 dist 目录
 destination: ./dist
+
+# 扁平化配置 - 所有页面输出到根目录
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: "/:basename.html"
+  - scope:
+      path: "_posts"
+    values:
+      permalink: "/:title.html"
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
 
 # 相对路径支持配置
 relative_links:
@@ -276,12 +297,12 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
-# Sitemap settings
-defaults:
-  - scope:
-      path: "assets"
-    values:
-      sitemap: false
+# Sitemap settings - 合并到上面的 defaults 中
+# defaults:
+#   - scope:
+#       path: "assets"
+#     values:
+#       sitemap: false
 
 sass:
   style: compressed
@@ -306,9 +327,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/blog-:year.html"
+    tag: "/tag-:name.html"
+    category: "/category-:name.html"
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog

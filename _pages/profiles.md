@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /people.html
 title: people
 description: members of our lab
 nav: true

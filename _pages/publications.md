@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications.html
 title: publications
 description: publications by categories in reversed chronological order.
 nav: true
