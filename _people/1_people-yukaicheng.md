@@ -2,7 +2,7 @@
 layout: page
 title: Prof. Dr. Yu Kaicheng
 description: A short intro
-img: assets/img/于开丞.png
+img: assets/img/yukaicheng.png
 importance: 1
 category: Principal Investigator (PI)
 github: https://github.com/kcyu2014

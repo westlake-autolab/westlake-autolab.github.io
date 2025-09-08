@@ -2,7 +2,7 @@
 layout: page
 title: Congyu Wang 
 description: Undergraduate
-img: assets/img/王从宇.jpeg
+img: assets/img/wangcongyu.jpeg
 importance: 1
 category: Undergraduate
 ---
@@ -12,7 +12,7 @@ category: Undergraduate
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/王从宇.jpeg" 
+            path="assets/img/wangcongyu.jpeg" 
             title="Congyu Wang" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}

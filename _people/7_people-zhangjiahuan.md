@@ -2,7 +2,7 @@
 layout: page
 title: Jiahuan Zhang
 description: Visiting Student
-img: assets/img/张家焕.JPEG
+img: assets/img/zhangjiahuan.JPEG
 importance: 1
 category: Visiting Student
 
@@ -13,7 +13,7 @@ category: Visiting Student
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/张家焕.JPEG" 
+            path="assets/img/zhangjiahuan.JPEG" 
             title="Jiahuan ZHANG" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
