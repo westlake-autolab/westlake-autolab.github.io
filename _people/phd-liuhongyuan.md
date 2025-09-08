@@ -2,7 +2,7 @@
 layout: page
 title: Hongyuan  LIU
 description: 2025 Fall Ph.D.
-img: assets/img/刘洪源.jpeg
+img: assets/img/liuhongyuan.jpeg
 category: Ph.D.
 importance: 9
 ---
@@ -12,7 +12,7 @@ importance: 9
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/刘洪源.jpeg" 
+            path="assets/img/liuhongyuan.jpeg" 
             title="Hongyuan  LIU" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}

@@ -2,7 +2,7 @@
 layout: page
 title: Enhui Ma
 description: 2024 Fall Ph.D.
-img: assets/img/马恩慧.JPG
+img: assets/img/maenhui.JPG
 importance: 1
 category: Ph.D.
 ---
@@ -12,7 +12,7 @@ category: Ph.D.
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/马恩慧.JPG" 
+            path="assets/img/maenhui.JPG" 
             title="Enhui Ma" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}

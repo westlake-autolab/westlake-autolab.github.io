@@ -2,7 +2,7 @@
 layout: page
 title: Zhen YANG
 description: Research Assistant
-img: assets/img/杨真.jpg
+img: assets/img/yangzhen.jpg
 importance: 1
 category: Research Assistant
 ---
@@ -12,7 +12,7 @@ category: Research Assistant
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/杨真.jpg" 
+            path="assets/img/yangzhen.jpg" 
             title="Zhen YANG" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}

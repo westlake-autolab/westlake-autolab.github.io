@@ -2,7 +2,7 @@
 layout: page
 title: Tianheng WANG
 description: 2025 Fall Ph.D.
-img: assets/img/王天亨.jpeg
+img: assets/img/wangtianheng.jpeg
 importance: 8
 category: Ph.D.
 ---
@@ -12,7 +12,7 @@ category: Ph.D.
     <div class="col-12 text-center mb-4">  <!-- 添加 text-center 和 mb-4 底部间距 -->
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/王天亨.jpeg" 
+            path="assets/img/wangtianheng.jpeg" 
             title="Tianheng WANG" 
             class="img-fluid rounded-circle z-depth-1"
             width="200px" %}
