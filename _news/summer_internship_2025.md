@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 [Summer Internship｜Students from Cambridge, Tsinghua, HKU, and other prestigious universities gathered at Westlake University Autolab, as the summer research internship is in full swing!](https://mp.weixin.qq.com/s/C5NlUEWbFy9yRJGseO3iog)
+🎓 [Students from Cambridge, Tsinghua, HKU, and other prestigious universities gathered at Westlake University Autolab, as the summer research internship is in full swing!](https://mp.weixin.qq.com/s/C5NlUEWbFy9yRJGseO3iog)
