@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Dr. Kaicheng YU will serve as Area Chair of ICLR 2026! 🎉
+🎉 Dr. Kaicheng YU will serve as Area Chair of ICLR 2026! 
