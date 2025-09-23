@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [Autolab visiting students and first-year doctoral students led the publication of an innovative research on structured representation in ACL.](https://mp.weixin.qq.com/s/dPQLDoWpIKqaP5vEuDEskg)
+🎉 [Autolab Achievement Exhibition｜Autolab visiting students and first-year doctoral students led the publication of an innovative research on structured representation in ACL.](https://mp.weixin.qq.com/s/dPQLDoWpIKqaP5vEuDEskg)
