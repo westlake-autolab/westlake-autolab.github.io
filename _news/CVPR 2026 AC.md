@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- Dr. Kaicheng YU will serve as Area Chair of CVPR 2026! 🎉
+🎉 Dr. Kaicheng YU will serve as Area Chair of CVPR 2026! 
