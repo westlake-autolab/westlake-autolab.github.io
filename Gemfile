@@ -6,7 +6,7 @@ group :jekyll_plugins do
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
-    gem 'jekyll-imagemagick'
+    # gem 'jekyll-imagemagick' # Disabled to avoid ImageMagick dependency locally
     # gem 'jekyll-jupyter-notebook'  # Disabled due to missing jupyter command
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'

@@ -18,6 +18,8 @@ icon: autolab_logo_sqr.jpeg # the emoji used as the favicon (alternatively, prov
 
 url: https://westlake-autolab.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+encoding: utf-8 # ensure Ruby treats file paths/content as UTF-8
+future: true # allow future-dated news items to be published without --future flag
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -259,7 +261,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
+  # - jekyll-imagemagick  # Disabled to avoid missing ImageMagick dependencies
   # - jekyll-jupyter-notebook  # Disabled due to missing jupyter command
   - jekyll-link-attributes
   - jekyll-minifier

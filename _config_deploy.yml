@@ -18,6 +18,8 @@ icon: autolab_logo_sqr.jpeg # the emoji used as the favicon (alternatively, prov
 
 url: "" # 本地开发时留空以支持相对路径
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
+encoding: utf-8 # ensure Ruby treats file paths/content as UTF-8
+future: true # allow future-dated news items to be published in deployment builds
 
 # Environment setting for plugins
 environment: production
@@ -172,13 +174,13 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
+#   - name: Google Blog
+#     posts:
+#       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#         published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -292,8 +294,8 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
+  # - jekyll-imagemagick  # Disabled to avoid missing ImageMagick dependencies
+  # - jekyll-jupyter-notebook  # Disabled due to missing jupyter command
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
